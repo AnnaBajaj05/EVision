@@ -1,0 +1,1001 @@
+Station Name,City,Region,Latitude,Longitude,Charger Type,Weather Condition,Temperature (°C),Range Impact
+EV Station 1,Varanasi,Uttar Pradesh,34.804413,96.344319,Bharat DC-001,Cold,-1.06,High
+EV Station 2,Vadodara,Gujarat,30.916679,77.683455,CCS,Cold,9.29,High
+EV Station 3,New Delhi,Delhi,27.992432,80.072299,CHAdeMO,Cold,-7.34,High
+EV Station 4,Asansol,West Bengal,15.262391,85.231489,CCS,Hot,35.6,Moderate
+EV Station 5,Vadodara,Gujarat,11.414835,84.992868,CHAdeMO,Hot,44.2,Moderate
+EV Station 6,Amritsar,Punjab,32.48056,96.438917,Type-2,Cold,7.0,High
+EV Station 7,Jodhpur,Rajasthan,21.324712,83.523788,Bharat DC-001,Hot,43.39,Moderate
+EV Station 8,Kozhikode,Kerala,10.311461,86.963218,CCS,Cold,-4.2,High
+EV Station 9,Noida,Uttar Pradesh,12.420533,79.178321,CHAdeMO,Cold,-5.55,High
+EV Station 10,Jodhpur,Rajasthan,31.508916,82.574862,CCS,Hot,35.4,Moderate
+EV Station 11,Chennai,Tamil Nadu,28.436886,95.268913,CHAdeMO,Moderate,21.82,Low
+EV Station 12,New Delhi,Delhi,25.885053,86.458678,Bharat DC-001,Cold,7.91,High
+EV Station 13,Chandigarh,Punjab,32.978504,83.300354,CCS,Moderate,14.16,Low
+EV Station 14,Ahmedabad,Gujarat,11.087603,82.774019,Bharat DC-001,Moderate,23.52,Low
+EV Station 15,Coimbatore,Tamil Nadu,14.557801,92.836548,CCS,Hot,32.53,Moderate
+EV Station 16,Kolkata,West Bengal,11.213402,83.098705,CHAdeMO,Moderate,21.37,Low
+EV Station 17,Vadodara,Gujarat,35.946175,72.34634,Bharat DC-001,Cold,-3.39,High
+EV Station 18,Jodhpur,Rajasthan,27.997388,96.279025,CHAdeMO,Cold,-2.61,High
+EV Station 19,Rohini,Delhi,15.277049,77.141188,CHAdeMO,Hot,31.62,Moderate
+EV Station 20,Amritsar,Punjab,10.425572,93.598527,CHAdeMO,Cold,-1.29,High
+EV Station 21,Udaipur,Rajasthan,18.15071,93.534973,CCS,Moderate,13.02,Low
+EV Station 22,Nagpur,Maharashtra,24.419993,88.555552,Bharat DC-001,Cold,3.31,High
+EV Station 23,Thiruvananthapuram,Kerala,13.95022,95.292578,Bharat DC-001,Moderate,16.6,Low
+EV Station 24,Thiruvananthapuram,Kerala,15.818716,72.651263,Bharat DC-001,Moderate,24.33,Low
+EV Station 25,Bengaluru,Karnataka,21.468778,69.447056,Type-2,Cold,0.21,High
+EV Station 26,Nagpur,Maharashtra,16.276654,94.497517,CHAdeMO,Moderate,24.65,Low
+EV Station 27,Thiruvananthapuram,Kerala,36.932288,73.814131,Bharat DC-001,Hot,33.59,Moderate
+EV Station 28,Amritsar,Punjab,23.789908,88.432936,Bharat DC-001,Moderate,19.0,Low
+EV Station 29,Bengaluru,Karnataka,14.323071,85.353433,CCS,Moderate,22.34,Low
+EV Station 30,Pune,Maharashtra,26.646159,72.8984,CHAdeMO,Moderate,14.05,Low
+EV Station 31,Nagpur,Maharashtra,35.442572,84.658269,Type-2,Moderate,17.02,Low
+EV Station 32,Kolkata,West Bengal,26.797109,89.692405,Type-2,Hot,28.7,Moderate
+EV Station 33,Noida,Uttar Pradesh,21.007936,68.858027,CHAdeMO,Moderate,21.11,Low
+EV Station 34,Coimbatore,Tamil Nadu,33.620593,95.61147,CHAdeMO,Moderate,16.39,Low
+EV Station 35,Lucknow,Uttar Pradesh,31.105161,72.343685,CCS,Moderate,15.8,Low
+EV Station 36,Lucknow,Uttar Pradesh,24.679546,83.108557,Bharat DC-001,Cold,-2.93,High
+EV Station 37,Chennai,Tamil Nadu,28.83977,79.00672,CCS,Hot,31.3,Moderate
+EV Station 38,Jodhpur,Rajasthan,24.754547,88.52998,CCS,Moderate,14.45,Low
+EV Station 39,Asansol,West Bengal,20.544151,75.305203,Type-2,Moderate,15.81,Low
+EV Station 40,Ludhiana,Punjab,20.410895,70.50399,CHAdeMO,Cold,3.83,High
+EV Station 41,Noida,Uttar Pradesh,13.756256,78.002149,CCS,Hot,28.7,Moderate
+EV Station 42,Madurai,Tamil Nadu,24.36423,75.763959,Bharat DC-001,Hot,42.07,Moderate
+EV Station 43,Udaipur,Rajasthan,9.638316,84.147491,CHAdeMO,Moderate,14.45,Low
+EV Station 44,Thiruvananthapuram,Kerala,29.991643,95.796118,CCS,Hot,32.28,Moderate
+EV Station 45,Varanasi,Uttar Pradesh,24.668081,70.684338,Bharat DC-001,Moderate,20.26,Low
+EV Station 46,Mysuru,Karnataka,19.526524,93.664327,CCS,Hot,27.09,Moderate
+EV Station 47,Thiruvananthapuram,Kerala,30.132809,74.502334,Type-2,Hot,26.9,Moderate
+EV Station 48,Asansol,West Bengal,36.298738,84.694976,Bharat DC-001,Moderate,21.62,Low
+EV Station 49,Rohini,Delhi,11.362636,68.943775,CCS,Hot,36.75,Moderate
+EV Station 50,Rohini,Delhi,26.319874,79.833106,CCS,Moderate,11.55,Low
+EV Station 51,Durgapur,West Bengal,11.486014,86.846438,Type-2,Moderate,15.97,Low
+EV Station 52,Surat,Gujarat,16.844651,91.267853,CHAdeMO,Moderate,19.88,Low
+EV Station 53,Thiruvananthapuram,Kerala,29.030767,92.801757,Bharat DC-001,Hot,35.31,Moderate
+EV Station 54,Jaipur,Rajasthan,18.563238,80.721612,CHAdeMO,Hot,39.95,Moderate
+EV Station 55,Kochi,Kerala,25.271973,94.559221,CHAdeMO,Cold,-4.54,High
+EV Station 56,Mysuru,Karnataka,28.088367,77.203271,Type-2,Moderate,22.49,Low
+EV Station 57,Rohini,Delhi,33.401457,84.619032,Bharat DC-001,Cold,3.41,High
+EV Station 58,Rohini,Delhi,27.238483,86.84588,Type-2,Hot,28.09,Moderate
+EV Station 59,Jodhpur,Rajasthan,32.099021,91.509722,Type-2,Hot,35.04,Moderate
+EV Station 60,Amritsar,Punjab,15.604251,68.32571,Bharat DC-001,Moderate,13.04,Low
+EV Station 61,Ahmedabad,Gujarat,34.149697,79.106245,CCS,Moderate,12.56,Low
+EV Station 62,Chennai,Tamil Nadu,32.07292,83.269757,Type-2,Hot,39.24,Moderate
+EV Station 63,Mysuru,Karnataka,9.627095,75.350582,CHAdeMO,Moderate,11.27,Low
+EV Station 64,Ahmedabad,Gujarat,35.946766,85.192977,CCS,Cold,-5.01,High
+EV Station 65,Kozhikode,Kerala,24.069585,75.231744,CCS,Cold,-6.49,High
+EV Station 66,Varanasi,Uttar Pradesh,32.393511,69.230337,CCS,Hot,42.97,Moderate
+EV Station 67,Rohini,Delhi,8.146795,75.286447,CCS,Moderate,18.1,Low
+EV Station 68,New Delhi,Delhi,9.900859,87.338387,Bharat DC-001,Cold,3.72,High
+EV Station 69,Mysuru,Karnataka,12.492975,86.31848,CCS,Cold,-6.5,High
+EV Station 70,Kochi,Kerala,34.044292,86.69914,Type-2,Moderate,16.2,Low
+EV Station 71,Mysuru,Karnataka,17.590206,90.146623,CHAdeMO,Cold,-9.92,High
+EV Station 72,Mumbai,Maharashtra,32.215431,83.035034,Type-2,Cold,-0.3,High
+EV Station 73,Bengaluru,Karnataka,17.370002,95.478582,Type-2,Cold,8.48,High
+EV Station 74,Kochi,Kerala,27.607163,71.513549,CHAdeMO,Moderate,11.7,Low
+EV Station 75,Chennai,Tamil Nadu,10.541554,82.231378,CCS,Hot,41.88,Moderate
+EV Station 76,Chandigarh,Punjab,33.461205,89.763823,CHAdeMO,Moderate,18.74,Low
+EV Station 77,Dwarka,Delhi,23.173135,96.917216,Bharat DC-001,Moderate,22.26,Low
+EV Station 78,Chennai,Tamil Nadu,21.493626,94.932695,CCS,Hot,42.99,Moderate
+EV Station 79,Kozhikode,Kerala,12.851086,88.34373,CHAdeMO,Hot,39.65,Moderate
+EV Station 80,Chandigarh,Punjab,36.040421,95.267556,CCS,Moderate,21.19,Low
+EV Station 81,Jaipur,Rajasthan,14.434003,86.883292,CCS,Cold,9.02,High
+EV Station 82,Lucknow,Uttar Pradesh,18.959297,84.916775,CCS,Cold,5.13,High
+EV Station 83,Durgapur,West Bengal,21.967188,87.282402,CCS,Moderate,13.73,Low
+EV Station 84,Chennai,Tamil Nadu,27.482603,77.940978,Bharat DC-001,Hot,31.03,Moderate
+EV Station 85,Thiruvananthapuram,Kerala,12.176424,84.922718,Bharat DC-001,Moderate,11.81,Low
+EV Station 86,Chandigarh,Punjab,27.676642,76.789819,Type-2,Moderate,16.45,Low
+EV Station 87,Ahmedabad,Gujarat,25.785147,76.570576,Type-2,Moderate,19.28,Low
+EV Station 88,Coimbatore,Tamil Nadu,8.629416,85.333056,Type-2,Cold,7.14,High
+EV Station 89,Kochi,Kerala,22.659561,82.982593,Type-2,Cold,1.87,High
+EV Station 90,Chennai,Tamil Nadu,33.354885,81.378817,Bharat DC-001,Hot,40.32,Moderate
+EV Station 91,Mysuru,Karnataka,16.305679,86.191247,Type-2,Cold,-9.51,High
+EV Station 92,Chennai,Tamil Nadu,20.559423,79.323388,CCS,Hot,31.48,Moderate
+EV Station 93,Bengaluru,Karnataka,33.440207,84.625476,Bharat DC-001,Cold,-3.95,High
+EV Station 94,Rohini,Delhi,32.891561,71.906981,CCS,Cold,-7.95,High
+EV Station 95,Noida,Uttar Pradesh,21.989628,84.764908,CHAdeMO,Moderate,22.61,Low
+EV Station 96,Chennai,Tamil Nadu,31.221768,88.850041,CCS,Cold,-9.09,High
+EV Station 97,Mysuru,Karnataka,19.646268,77.876936,Bharat DC-001,Moderate,23.23,Low
+EV Station 98,Vadodara,Gujarat,12.471565,93.460898,Type-2,Hot,29.53,Moderate
+EV Station 99,Mysuru,Karnataka,10.619557,73.001661,Bharat DC-001,Cold,-7.68,High
+EV Station 100,Udaipur,Rajasthan,11.840524,84.490323,CCS,Cold,-1.49,High
+EV Station 101,Rohini,Delhi,18.091365,85.49181,Type-2,Hot,44.59,Moderate
+EV Station 102,Jaipur,Rajasthan,25.62252,69.759162,CCS,Moderate,14.17,Low
+EV Station 103,Kozhikode,Kerala,36.652894,82.599258,CCS,Cold,2.87,High
+EV Station 104,Kolkata,West Bengal,14.506155,71.807977,CHAdeMO,Moderate,20.51,Low
+EV Station 105,Dwarka,Delhi,25.277326,81.648936,CHAdeMO,Moderate,23.0,Low
+EV Station 106,Kozhikode,Kerala,33.07866,68.685141,CHAdeMO,Moderate,24.26,Low
+EV Station 107,Amritsar,Punjab,36.859929,74.973826,CCS,Moderate,14.27,Low
+EV Station 108,Bengaluru,Karnataka,36.704322,76.932357,Type-2,Moderate,16.1,Low
+EV Station 109,Mumbai,Maharashtra,10.430867,72.64235,CCS,Cold,3.23,High
+EV Station 110,Bengaluru,Karnataka,19.480133,82.411909,Bharat DC-001,Hot,29.46,Moderate
+EV Station 111,Kochi,Kerala,20.523705,89.899821,CHAdeMO,Moderate,12.14,Low
+EV Station 112,Dwarka,Delhi,23.336271,81.175567,CCS,Hot,41.12,Moderate
+EV Station 113,Mumbai,Maharashtra,23.873001,86.453205,CCS,Hot,44.99,Moderate
+EV Station 114,Bengaluru,Karnataka,27.602308,71.761255,CCS,Hot,26.01,Moderate
+EV Station 115,Mangaluru,Karnataka,16.955806,94.860152,Bharat DC-001,Moderate,14.15,Low
+EV Station 116,Vadodara,Gujarat,9.275935,80.402188,Bharat DC-001,Cold,5.31,High
+EV Station 117,Mysuru,Karnataka,21.801552,94.796958,Bharat DC-001,Moderate,17.78,Low
+EV Station 118,Ahmedabad,Gujarat,27.345191,73.170048,CCS,Cold,1.01,High
+EV Station 119,Udaipur,Rajasthan,30.887556,80.120303,Bharat DC-001,Hot,34.25,Moderate
+EV Station 120,Nagpur,Maharashtra,15.051407,78.541269,CCS,Hot,27.06,Moderate
+EV Station 121,Jodhpur,Rajasthan,28.43263,88.319626,CHAdeMO,Hot,28.13,Moderate
+EV Station 122,Ahmedabad,Gujarat,8.224045,96.692918,CHAdeMO,Hot,31.4,Moderate
+EV Station 123,Mysuru,Karnataka,23.656155,84.000096,Bharat DC-001,Hot,33.16,Moderate
+EV Station 124,Vadodara,Gujarat,22.807634,88.423716,CHAdeMO,Hot,33.69,Moderate
+EV Station 125,Kolkata,West Bengal,20.427651,85.823478,CHAdeMO,Moderate,19.0,Low
+EV Station 126,Varanasi,Uttar Pradesh,16.632598,87.309765,CCS,Moderate,19.7,Low
+EV Station 127,Chandigarh,Punjab,34.285655,76.42702,Bharat DC-001,Hot,34.4,Moderate
+EV Station 128,Durgapur,West Bengal,22.850811,95.66992,CCS,Hot,34.94,Moderate
+EV Station 129,Mumbai,Maharashtra,14.650277,92.891367,CHAdeMO,Cold,8.07,High
+EV Station 130,Surat,Gujarat,20.409711,76.817916,CCS,Moderate,23.64,Low
+EV Station 131,Coimbatore,Tamil Nadu,13.674826,77.592332,Bharat DC-001,Cold,4.69,High
+EV Station 132,New Delhi,Delhi,17.00076,83.275204,Type-2,Moderate,16.06,Low
+EV Station 133,Varanasi,Uttar Pradesh,21.155571,94.918426,CHAdeMO,Cold,-5.97,High
+EV Station 134,Chennai,Tamil Nadu,11.775033,86.55303,CHAdeMO,Hot,36.12,Moderate
+EV Station 135,Mumbai,Maharashtra,16.403454,78.306842,Bharat DC-001,Cold,4.5,High
+EV Station 136,Pune,Maharashtra,11.716801,75.158863,Type-2,Moderate,17.43,Low
+EV Station 137,Udaipur,Rajasthan,34.038926,75.636285,CHAdeMO,Moderate,21.41,Low
+EV Station 138,Chandigarh,Punjab,12.856962,83.386064,Bharat DC-001,Cold,0.59,High
+EV Station 139,Durgapur,West Bengal,15.791433,94.818871,Bharat DC-001,Moderate,17.8,Low
+EV Station 140,Nagpur,Maharashtra,23.79503,79.796637,CCS,Hot,33.85,Moderate
+EV Station 141,Chandigarh,Punjab,12.567964,70.187934,CHAdeMO,Hot,39.68,Moderate
+EV Station 142,Noida,Uttar Pradesh,15.051879,94.931325,Type-2,Hot,41.14,Moderate
+EV Station 143,Ludhiana,Punjab,30.19475,82.990432,CHAdeMO,Moderate,16.39,Low
+EV Station 144,Jodhpur,Rajasthan,22.265583,79.885578,Bharat DC-001,Cold,-9.98,High
+EV Station 145,Lucknow,Uttar Pradesh,27.929975,81.025925,CHAdeMO,Hot,33.38,Moderate
+EV Station 146,Jaipur,Rajasthan,16.859712,87.740636,CHAdeMO,Moderate,24.83,Low
+EV Station 147,Mangaluru,Karnataka,36.689828,89.289229,CHAdeMO,Hot,29.1,Moderate
+EV Station 148,Pune,Maharashtra,27.645396,86.096484,CCS,Cold,-1.59,High
+EV Station 149,Noida,Uttar Pradesh,27.316065,91.062606,CHAdeMO,Hot,43.47,Moderate
+EV Station 150,Thiruvananthapuram,Kerala,22.798784,90.17544,CCS,Moderate,18.81,Low
+EV Station 151,Ludhiana,Punjab,33.038555,72.855492,CCS,Hot,40.89,Moderate
+EV Station 152,Mangaluru,Karnataka,24.654485,83.081414,CHAdeMO,Hot,34.76,Moderate
+EV Station 153,Amritsar,Punjab,30.33915,86.020325,CCS,Hot,42.74,Moderate
+EV Station 154,Ahmedabad,Gujarat,10.136414,83.281945,CCS,Moderate,16.95,Low
+EV Station 155,Dwarka,Delhi,13.678,85.837632,Bharat DC-001,Cold,-8.22,High
+EV Station 156,Madurai,Tamil Nadu,36.438235,95.539614,CHAdeMO,Cold,-7.22,High
+EV Station 157,Kolkata,West Bengal,32.597022,82.084993,Type-2,Moderate,12.27,Low
+EV Station 158,Mangaluru,Karnataka,20.897348,81.245879,CHAdeMO,Moderate,11.46,Low
+EV Station 159,Surat,Gujarat,28.196176,79.176162,Type-2,Hot,43.85,Moderate
+EV Station 160,Kolkata,West Bengal,18.491106,88.971391,Bharat DC-001,Moderate,15.23,Low
+EV Station 161,Asansol,West Bengal,10.285696,96.003258,Type-2,Hot,42.51,Moderate
+EV Station 162,Noida,Uttar Pradesh,23.849864,94.204565,Type-2,Moderate,11.39,Low
+EV Station 163,Kozhikode,Kerala,30.497107,82.35318,CCS,Hot,27.61,Moderate
+EV Station 164,Durgapur,West Bengal,15.245114,74.48009,Type-2,Cold,4.94,High
+EV Station 165,Varanasi,Uttar Pradesh,30.72162,68.000234,CCS,Moderate,19.9,Low
+EV Station 166,Varanasi,Uttar Pradesh,33.525853,71.039395,Bharat DC-001,Moderate,22.71,Low
+EV Station 167,Jodhpur,Rajasthan,8.609504,85.828756,CCS,Cold,2.56,High
+EV Station 168,Madurai,Tamil Nadu,30.35738,70.456886,Bharat DC-001,Hot,41.0,Moderate
+EV Station 169,Mangaluru,Karnataka,29.031329,72.669726,Type-2,Cold,5.02,High
+EV Station 170,Jodhpur,Rajasthan,13.074963,90.698222,CCS,Moderate,16.47,Low
+EV Station 171,Mangaluru,Karnataka,15.756817,91.670643,CCS,Cold,-9.91,High
+EV Station 172,Thiruvananthapuram,Kerala,29.706641,69.35574,CCS,Hot,30.13,Moderate
+EV Station 173,New Delhi,Delhi,32.684501,71.853772,CCS,Moderate,15.45,Low
+EV Station 174,Kozhikode,Kerala,32.260532,84.982506,Type-2,Moderate,12.05,Low
+EV Station 175,Ahmedabad,Gujarat,32.874619,78.276701,Bharat DC-001,Moderate,19.03,Low
+EV Station 176,Amritsar,Punjab,34.012332,86.852492,Type-2,Moderate,14.09,Low
+EV Station 177,Pune,Maharashtra,24.39113,75.089879,CHAdeMO,Moderate,15.9,Low
+EV Station 178,Vadodara,Gujarat,21.238373,85.558662,Type-2,Cold,8.85,High
+EV Station 179,Kozhikode,Kerala,19.73722,76.349662,CCS,Cold,0.0,High
+EV Station 180,Jaipur,Rajasthan,35.640025,94.468873,Bharat DC-001,Moderate,24.42,Low
+EV Station 181,Mumbai,Maharashtra,36.834807,81.436355,CHAdeMO,Cold,-2.98,High
+EV Station 182,Mangaluru,Karnataka,23.804715,92.824087,CCS,Moderate,17.64,Low
+EV Station 183,Jaipur,Rajasthan,29.326089,83.354916,Type-2,Cold,5.03,High
+EV Station 184,Jodhpur,Rajasthan,28.371323,78.174118,CCS,Cold,-0.92,High
+EV Station 185,Mysuru,Karnataka,29.945927,80.740859,CCS,Cold,-1.28,High
+EV Station 186,Asansol,West Bengal,13.704296,92.859552,Type-2,Cold,2.93,High
+EV Station 187,Nagpur,Maharashtra,29.451145,82.640963,Bharat DC-001,Hot,38.86,Moderate
+EV Station 188,Kolkata,West Bengal,16.128277,90.363985,CCS,Moderate,15.89,Low
+EV Station 189,Ahmedabad,Gujarat,25.822391,80.927977,CCS,Cold,-0.7,High
+EV Station 190,Nagpur,Maharashtra,12.897801,68.082366,CHAdeMO,Cold,4.9,High
+EV Station 191,Pune,Maharashtra,24.441047,80.39592,CHAdeMO,Moderate,24.49,Low
+EV Station 192,Noida,Uttar Pradesh,9.027325,95.423559,Type-2,Cold,9.4,High
+EV Station 193,Chennai,Tamil Nadu,22.407369,83.759926,Bharat DC-001,Cold,-6.91,High
+EV Station 194,Chandigarh,Punjab,14.135142,72.673506,CCS,Hot,33.25,Moderate
+EV Station 195,Amritsar,Punjab,18.600453,79.496195,CHAdeMO,Cold,0.38,High
+EV Station 196,Lucknow,Uttar Pradesh,25.516309,92.397624,Type-2,Moderate,22.14,Low
+EV Station 197,Nagpur,Maharashtra,27.813265,78.766704,CCS,Cold,1.08,High
+EV Station 198,Vadodara,Gujarat,32.07793,75.895958,CHAdeMO,Cold,2.93,High
+EV Station 199,Jaipur,Rajasthan,9.413954,75.460675,Type-2,Hot,27.83,Moderate
+EV Station 200,Bengaluru,Karnataka,30.474903,80.99482,CCS,Hot,41.3,Moderate
+EV Station 201,Mumbai,Maharashtra,34.456917,93.848121,CHAdeMO,Cold,-6.13,High
+EV Station 202,Mumbai,Maharashtra,16.173269,89.527583,Bharat DC-001,Moderate,13.39,Low
+EV Station 203,Varanasi,Uttar Pradesh,25.119285,96.59831,Bharat DC-001,Hot,37.27,Moderate
+EV Station 204,Chandigarh,Punjab,19.878508,77.50541,CCS,Moderate,17.3,Low
+EV Station 205,Mumbai,Maharashtra,31.774033,69.469894,Bharat DC-001,Cold,-8.27,High
+EV Station 206,Rohini,Delhi,16.326264,91.489996,CHAdeMO,Cold,-0.68,High
+EV Station 207,Ahmedabad,Gujarat,17.678759,69.796461,Bharat DC-001,Cold,4.04,High
+EV Station 208,Mumbai,Maharashtra,21.162484,81.015405,Bharat DC-001,Moderate,23.75,Low
+EV Station 209,Ludhiana,Punjab,18.081724,78.698697,CHAdeMO,Moderate,24.11,Low
+EV Station 210,Chandigarh,Punjab,27.705552,89.902232,Type-2,Moderate,13.99,Low
+EV Station 211,Varanasi,Uttar Pradesh,31.259375,78.612931,CCS,Moderate,23.58,Low
+EV Station 212,Mumbai,Maharashtra,26.145597,74.453065,Type-2,Cold,-0.41,High
+EV Station 213,Thiruvananthapuram,Kerala,20.783819,86.217177,Type-2,Cold,-3.62,High
+EV Station 214,Vadodara,Gujarat,8.651699,75.839111,CCS,Cold,-8.98,High
+EV Station 215,Rohini,Delhi,20.765446,78.270627,Bharat DC-001,Moderate,12.18,Low
+EV Station 216,Chandigarh,Punjab,12.222911,94.930736,Bharat DC-001,Moderate,13.42,Low
+EV Station 217,Ahmedabad,Gujarat,11.090329,84.482007,CCS,Hot,43.8,Moderate
+EV Station 218,Surat,Gujarat,11.197325,92.338635,Type-2,Moderate,20.84,Low
+EV Station 219,Kolkata,West Bengal,31.185235,74.633941,Type-2,Hot,31.39,Moderate
+EV Station 220,Mangaluru,Karnataka,17.42934,83.41169,CHAdeMO,Hot,28.27,Moderate
+EV Station 221,Ahmedabad,Gujarat,11.026283,71.997033,Type-2,Hot,30.54,Moderate
+EV Station 222,Chandigarh,Punjab,14.019023,84.498915,CHAdeMO,Hot,26.76,Moderate
+EV Station 223,Amritsar,Punjab,28.055698,81.30838,CHAdeMO,Hot,43.07,Moderate
+EV Station 224,Vadodara,Gujarat,17.580567,94.212157,Type-2,Cold,-9.45,High
+EV Station 225,Mysuru,Karnataka,34.154957,82.934164,Bharat DC-001,Cold,2.6,High
+EV Station 226,Kozhikode,Kerala,25.743461,72.620868,Type-2,Hot,41.69,Moderate
+EV Station 227,Mumbai,Maharashtra,16.772199,88.883425,Bharat DC-001,Moderate,21.12,Low
+EV Station 228,Coimbatore,Tamil Nadu,10.725514,85.336997,CCS,Cold,-8.12,High
+EV Station 229,Noida,Uttar Pradesh,16.587745,94.408718,CCS,Hot,44.35,Moderate
+EV Station 230,Jodhpur,Rajasthan,20.260157,91.697814,CHAdeMO,Hot,30.53,Moderate
+EV Station 231,Asansol,West Bengal,15.398618,86.549558,Type-2,Moderate,22.9,Low
+EV Station 232,Madurai,Tamil Nadu,25.893201,72.910792,Bharat DC-001,Cold,0.38,High
+EV Station 233,Varanasi,Uttar Pradesh,17.655753,83.707158,CHAdeMO,Cold,-3.67,High
+EV Station 234,Lucknow,Uttar Pradesh,18.525525,72.771045,CHAdeMO,Cold,-4.0,High
+EV Station 235,Kozhikode,Kerala,32.073903,90.641126,Bharat DC-001,Hot,29.73,Moderate
+EV Station 236,Mangaluru,Karnataka,11.045599,68.451601,CHAdeMO,Moderate,11.12,Low
+EV Station 237,Dwarka,Delhi,14.041975,89.411771,Bharat DC-001,Hot,42.76,Moderate
+EV Station 238,Lucknow,Uttar Pradesh,13.301858,72.867571,CCS,Hot,44.18,Moderate
+EV Station 239,New Delhi,Delhi,18.021105,83.559657,Bharat DC-001,Hot,28.06,Moderate
+EV Station 240,Surat,Gujarat,26.66485,88.01269,Type-2,Cold,9.11,High
+EV Station 241,Udaipur,Rajasthan,13.781762,72.616087,CCS,Cold,-3.0,High
+EV Station 242,Kozhikode,Kerala,22.584523,93.44171,CHAdeMO,Hot,34.46,Moderate
+EV Station 243,Kolkata,West Bengal,26.247568,94.820098,CHAdeMO,Hot,34.75,Moderate
+EV Station 244,Rohini,Delhi,10.552341,92.180201,Bharat DC-001,Moderate,21.8,Low
+EV Station 245,Mangaluru,Karnataka,14.904544,86.449828,CCS,Hot,40.9,Moderate
+EV Station 246,Coimbatore,Tamil Nadu,11.089817,81.33072,CHAdeMO,Hot,31.75,Moderate
+EV Station 247,Varanasi,Uttar Pradesh,19.435808,80.900451,Type-2,Hot,40.6,Moderate
+EV Station 248,Madurai,Tamil Nadu,12.720649,73.159958,CCS,Cold,4.07,High
+EV Station 249,Chennai,Tamil Nadu,17.880733,88.300402,CCS,Hot,43.16,Moderate
+EV Station 250,Lucknow,Uttar Pradesh,25.971742,87.06784,Type-2,Hot,28.73,Moderate
+EV Station 251,Pune,Maharashtra,28.849824,89.344591,Type-2,Cold,-4.57,High
+EV Station 252,Udaipur,Rajasthan,23.409272,87.752987,CCS,Hot,40.36,Moderate
+EV Station 253,Jodhpur,Rajasthan,32.918179,72.509142,CCS,Cold,7.48,High
+EV Station 254,New Delhi,Delhi,25.853819,89.462824,CHAdeMO,Cold,0.09,High
+EV Station 255,New Delhi,Delhi,23.846319,72.114961,Type-2,Moderate,12.08,Low
+EV Station 256,Kochi,Kerala,12.137775,82.051246,CHAdeMO,Cold,5.38,High
+EV Station 257,Durgapur,West Bengal,26.888515,83.120042,CHAdeMO,Moderate,14.05,Low
+EV Station 258,Kochi,Kerala,34.763727,76.551553,CHAdeMO,Hot,26.9,Moderate
+EV Station 259,Udaipur,Rajasthan,35.618086,86.478632,Bharat DC-001,Hot,41.32,Moderate
+EV Station 260,Pune,Maharashtra,8.396432,86.621935,Type-2,Cold,-7.17,High
+EV Station 261,Rohini,Delhi,26.146615,91.263028,Bharat DC-001,Cold,9.37,High
+EV Station 262,Ahmedabad,Gujarat,18.884647,92.056505,CHAdeMO,Cold,-9.87,High
+EV Station 263,Surat,Gujarat,16.73754,93.438202,CCS,Cold,4.08,High
+EV Station 264,Surat,Gujarat,29.092227,93.067782,CHAdeMO,Cold,-8.55,High
+EV Station 265,Surat,Gujarat,21.741461,72.077321,CHAdeMO,Hot,34.4,Moderate
+EV Station 266,Vadodara,Gujarat,26.144123,71.807261,Type-2,Hot,27.81,Moderate
+EV Station 267,Udaipur,Rajasthan,20.408673,93.057911,Type-2,Cold,-8.93,High
+EV Station 268,Bengaluru,Karnataka,23.034962,82.182024,Bharat DC-001,Hot,35.91,Moderate
+EV Station 269,Madurai,Tamil Nadu,17.077402,81.814181,Bharat DC-001,Hot,38.31,Moderate
+EV Station 270,Udaipur,Rajasthan,16.882688,87.83682,CHAdeMO,Hot,34.65,Moderate
+EV Station 271,Varanasi,Uttar Pradesh,20.128958,83.782201,Type-2,Cold,7.96,High
+EV Station 272,Coimbatore,Tamil Nadu,30.697857,79.734178,CHAdeMO,Moderate,12.87,Low
+EV Station 273,Thiruvananthapuram,Kerala,36.39373,72.659847,Bharat DC-001,Moderate,24.24,Low
+EV Station 274,Jodhpur,Rajasthan,10.988825,84.493127,Bharat DC-001,Hot,30.97,Moderate
+EV Station 275,Thiruvananthapuram,Kerala,29.768049,68.812269,CHAdeMO,Hot,35.2,Moderate
+EV Station 276,Mumbai,Maharashtra,35.293686,68.728538,Bharat DC-001,Cold,9.01,High
+EV Station 277,Madurai,Tamil Nadu,19.499748,89.555165,CCS,Moderate,13.66,Low
+EV Station 278,Pune,Maharashtra,31.667664,77.926678,CCS,Cold,9.16,High
+EV Station 279,Kozhikode,Kerala,13.772527,72.277926,CCS,Hot,38.52,Moderate
+EV Station 280,Ahmedabad,Gujarat,15.265059,94.096841,Bharat DC-001,Cold,0.79,High
+EV Station 281,Noida,Uttar Pradesh,31.109596,88.56764,Bharat DC-001,Cold,-5.89,High
+EV Station 282,Kozhikode,Kerala,28.325838,83.971401,Bharat DC-001,Hot,34.68,Moderate
+EV Station 283,Kozhikode,Kerala,32.956251,88.346904,Type-2,Hot,35.13,Moderate
+EV Station 284,Kozhikode,Kerala,15.39452,87.790034,Type-2,Hot,27.74,Moderate
+EV Station 285,Nagpur,Maharashtra,20.64531,80.835885,Type-2,Hot,26.09,Moderate
+EV Station 286,Jodhpur,Rajasthan,21.40619,72.743566,CHAdeMO,Moderate,12.94,Low
+EV Station 287,Bengaluru,Karnataka,18.063415,82.457596,CCS,Hot,35.32,Moderate
+EV Station 288,Madurai,Tamil Nadu,13.930914,94.007221,Bharat DC-001,Cold,1.4,High
+EV Station 289,Chandigarh,Punjab,24.283432,71.748299,CHAdeMO,Cold,-9.13,High
+EV Station 290,Thiruvananthapuram,Kerala,32.535441,82.289785,Type-2,Moderate,15.53,Low
+EV Station 291,Jaipur,Rajasthan,36.038997,84.957281,Bharat DC-001,Hot,26.83,Moderate
+EV Station 292,Varanasi,Uttar Pradesh,21.480268,72.807928,CCS,Hot,40.25,Moderate
+EV Station 293,Madurai,Tamil Nadu,22.247809,92.576585,CHAdeMO,Hot,43.31,Moderate
+EV Station 294,Nagpur,Maharashtra,21.308296,71.268062,CHAdeMO,Cold,6.93,High
+EV Station 295,Nagpur,Maharashtra,29.589513,86.698809,Bharat DC-001,Moderate,24.52,Low
+EV Station 296,Kozhikode,Kerala,19.140635,68.649163,Type-2,Hot,40.47,Moderate
+EV Station 297,Pune,Maharashtra,27.197654,85.38659,Type-2,Cold,3.88,High
+EV Station 298,Asansol,West Bengal,29.773259,78.592355,Bharat DC-001,Hot,26.65,Moderate
+EV Station 299,Kochi,Kerala,26.968982,91.417009,Type-2,Hot,34.04,Moderate
+EV Station 300,Mysuru,Karnataka,19.624637,85.69094,CCS,Hot,44.36,Moderate
+EV Station 301,Ludhiana,Punjab,13.586275,77.244517,Bharat DC-001,Hot,40.96,Moderate
+EV Station 302,Kochi,Kerala,22.74488,78.180208,Type-2,Cold,7.14,High
+EV Station 303,Durgapur,West Bengal,29.40222,86.860738,CHAdeMO,Cold,-3.64,High
+EV Station 304,Kozhikode,Kerala,17.212433,72.572283,Type-2,Moderate,18.75,Low
+EV Station 305,Amritsar,Punjab,34.254636,78.925915,Bharat DC-001,Cold,-5.73,High
+EV Station 306,Kochi,Kerala,27.534768,88.544753,Type-2,Moderate,15.15,Low
+EV Station 307,Kozhikode,Kerala,31.206091,91.326113,Type-2,Cold,5.59,High
+EV Station 308,Mysuru,Karnataka,32.420071,92.700172,CHAdeMO,Cold,-6.33,High
+EV Station 309,Noida,Uttar Pradesh,11.665656,81.61595,CCS,Hot,43.5,Moderate
+EV Station 310,Jaipur,Rajasthan,19.22574,93.657832,Bharat DC-001,Hot,29.94,Moderate
+EV Station 311,Vadodara,Gujarat,18.740152,91.460745,CCS,Cold,2.82,High
+EV Station 312,Dwarka,Delhi,11.283949,80.712555,Bharat DC-001,Cold,-7.95,High
+EV Station 313,Chennai,Tamil Nadu,11.193135,84.001388,Bharat DC-001,Hot,36.0,Moderate
+EV Station 314,Noida,Uttar Pradesh,26.957402,91.162929,Bharat DC-001,Cold,8.85,High
+EV Station 315,Mumbai,Maharashtra,16.050416,88.466178,Bharat DC-001,Moderate,16.38,Low
+EV Station 316,Coimbatore,Tamil Nadu,26.771953,94.421963,Bharat DC-001,Moderate,22.73,Low
+EV Station 317,Mysuru,Karnataka,9.308139,88.872462,CHAdeMO,Moderate,17.65,Low
+EV Station 318,Durgapur,West Bengal,24.091348,94.831997,Bharat DC-001,Hot,32.96,Moderate
+EV Station 319,Vadodara,Gujarat,24.212158,95.774327,Type-2,Moderate,16.56,Low
+EV Station 320,Jodhpur,Rajasthan,17.718708,78.714978,Bharat DC-001,Cold,-9.15,High
+EV Station 321,Kozhikode,Kerala,24.92525,71.163351,Bharat DC-001,Moderate,24.44,Low
+EV Station 322,Udaipur,Rajasthan,9.754155,95.89349,Type-2,Moderate,19.11,Low
+EV Station 323,Thiruvananthapuram,Kerala,14.124416,74.922994,CHAdeMO,Hot,36.17,Moderate
+EV Station 324,Mangaluru,Karnataka,28.45173,85.912119,CCS,Cold,-6.43,High
+EV Station 325,Jodhpur,Rajasthan,10.86867,71.423248,CHAdeMO,Cold,5.27,High
+EV Station 326,New Delhi,Delhi,10.870378,82.850392,Type-2,Moderate,21.88,Low
+EV Station 327,Amritsar,Punjab,8.373312,89.335024,CCS,Hot,29.0,Moderate
+EV Station 328,Vadodara,Gujarat,19.06943,75.732094,CHAdeMO,Hot,35.44,Moderate
+EV Station 329,Ludhiana,Punjab,13.68697,75.263748,CCS,Cold,8.8,High
+EV Station 330,Rohini,Delhi,22.797031,70.206291,Bharat DC-001,Moderate,16.51,Low
+EV Station 331,Durgapur,West Bengal,16.265503,76.086981,Type-2,Moderate,15.53,Low
+EV Station 332,Vadodara,Gujarat,22.339293,74.218905,CHAdeMO,Cold,2.9,High
+EV Station 333,Kolkata,West Bengal,14.00176,74.919862,CCS,Moderate,21.77,Low
+EV Station 334,Ahmedabad,Gujarat,34.080085,90.323474,Bharat DC-001,Moderate,16.34,Low
+EV Station 335,Mysuru,Karnataka,33.960787,74.84606,Type-2,Cold,0.3,High
+EV Station 336,Asansol,West Bengal,27.561751,77.343466,CHAdeMO,Hot,41.97,Moderate
+EV Station 337,Coimbatore,Tamil Nadu,14.029227,82.048091,Bharat DC-001,Cold,6.01,High
+EV Station 338,Varanasi,Uttar Pradesh,36.717194,92.638513,CCS,Hot,39.17,Moderate
+EV Station 339,Mangaluru,Karnataka,18.802093,90.253728,Type-2,Moderate,19.0,Low
+EV Station 340,Asansol,West Bengal,28.077445,72.907773,CHAdeMO,Cold,-9.99,High
+EV Station 341,Kolkata,West Bengal,35.638049,92.112058,Bharat DC-001,Moderate,20.1,Low
+EV Station 342,Noida,Uttar Pradesh,19.639972,95.371054,CHAdeMO,Moderate,13.77,Low
+EV Station 343,Chandigarh,Punjab,10.829963,88.383794,CCS,Hot,26.71,Moderate
+EV Station 344,Jodhpur,Rajasthan,21.503215,75.718428,Bharat DC-001,Moderate,22.81,Low
+EV Station 345,Mysuru,Karnataka,35.983759,84.112261,Type-2,Moderate,21.2,Low
+EV Station 346,Chennai,Tamil Nadu,32.971715,82.562267,CCS,Cold,9.71,High
+EV Station 347,Kolkata,West Bengal,27.009249,78.277634,Bharat DC-001,Cold,8.2,High
+EV Station 348,Durgapur,West Bengal,8.898167,82.199771,CCS,Hot,28.55,Moderate
+EV Station 349,Ludhiana,Punjab,32.759104,77.298721,Type-2,Cold,-8.01,High
+EV Station 350,Vadodara,Gujarat,27.66348,93.69249,CHAdeMO,Hot,38.37,Moderate
+EV Station 351,Udaipur,Rajasthan,12.682597,71.561034,CHAdeMO,Moderate,16.38,Low
+EV Station 352,Amritsar,Punjab,18.192356,74.921155,Type-2,Cold,5.79,High
+EV Station 353,Jodhpur,Rajasthan,13.500051,70.707967,CCS,Moderate,21.17,Low
+EV Station 354,Jodhpur,Rajasthan,22.13706,93.592923,CCS,Moderate,22.73,Low
+EV Station 355,Pune,Maharashtra,35.606636,76.800233,Bharat DC-001,Cold,7.87,High
+EV Station 356,Noida,Uttar Pradesh,30.47809,72.723686,CCS,Moderate,22.88,Low
+EV Station 357,Jodhpur,Rajasthan,33.057851,75.591719,Bharat DC-001,Moderate,14.38,Low
+EV Station 358,Nagpur,Maharashtra,8.69949,70.387679,CHAdeMO,Hot,30.21,Moderate
+EV Station 359,Mumbai,Maharashtra,31.520393,71.482554,Bharat DC-001,Moderate,24.24,Low
+EV Station 360,Kochi,Kerala,24.279328,96.165788,Bharat DC-001,Hot,43.36,Moderate
+EV Station 361,Kochi,Kerala,32.532482,90.3242,CHAdeMO,Moderate,24.9,Low
+EV Station 362,Lucknow,Uttar Pradesh,30.851261,91.25573,Bharat DC-001,Hot,43.17,Moderate
+EV Station 363,Thiruvananthapuram,Kerala,32.207772,86.558861,Bharat DC-001,Cold,-8.68,High
+EV Station 364,Chennai,Tamil Nadu,26.882774,88.722947,Bharat DC-001,Hot,43.58,Moderate
+EV Station 365,Chandigarh,Punjab,11.45892,89.317281,Type-2,Moderate,16.72,Low
+EV Station 366,Lucknow,Uttar Pradesh,21.343511,86.930074,CCS,Moderate,24.45,Low
+EV Station 367,Udaipur,Rajasthan,19.244043,83.944489,CCS,Moderate,15.13,Low
+EV Station 368,Kochi,Kerala,35.060374,71.009585,Type-2,Moderate,24.37,Low
+EV Station 369,Asansol,West Bengal,9.913148,83.001941,CHAdeMO,Hot,30.52,Moderate
+EV Station 370,Kozhikode,Kerala,35.165547,68.009229,Bharat DC-001,Moderate,21.38,Low
+EV Station 371,Bengaluru,Karnataka,33.439027,82.949026,Bharat DC-001,Hot,28.17,Moderate
+EV Station 372,Asansol,West Bengal,31.739207,93.630945,Type-2,Cold,3.51,High
+EV Station 373,Amritsar,Punjab,15.8737,84.725965,CCS,Cold,4.41,High
+EV Station 374,Surat,Gujarat,8.429601,82.92859,Bharat DC-001,Cold,-3.27,High
+EV Station 375,Rohini,Delhi,19.209721,93.929842,Type-2,Hot,40.31,Moderate
+EV Station 376,Pune,Maharashtra,10.917215,96.102283,CHAdeMO,Moderate,13.7,Low
+EV Station 377,Lucknow,Uttar Pradesh,28.12629,73.809013,CCS,Moderate,17.55,Low
+EV Station 378,Ahmedabad,Gujarat,17.906405,91.699081,CHAdeMO,Hot,44.86,Moderate
+EV Station 379,Chandigarh,Punjab,23.278261,92.226225,Bharat DC-001,Hot,27.79,Moderate
+EV Station 380,Nagpur,Maharashtra,23.02913,86.003067,CHAdeMO,Moderate,21.19,Low
+EV Station 381,Kolkata,West Bengal,24.019702,85.246214,Type-2,Hot,36.33,Moderate
+EV Station 382,Lucknow,Uttar Pradesh,9.395441,82.732856,Bharat DC-001,Hot,35.46,Moderate
+EV Station 383,Thiruvananthapuram,Kerala,16.770349,91.759072,Bharat DC-001,Moderate,22.82,Low
+EV Station 384,Lucknow,Uttar Pradesh,16.310337,93.453135,CCS,Moderate,12.33,Low
+EV Station 385,Durgapur,West Bengal,36.216604,72.62782,CCS,Hot,43.41,Moderate
+EV Station 386,Chennai,Tamil Nadu,33.77421,72.759022,Bharat DC-001,Cold,-8.43,High
+EV Station 387,Lucknow,Uttar Pradesh,31.763526,81.965685,CHAdeMO,Cold,4.71,High
+EV Station 388,Kolkata,West Bengal,29.929782,86.42434,CHAdeMO,Cold,-4.63,High
+EV Station 389,Ahmedabad,Gujarat,11.763157,87.437003,CHAdeMO,Moderate,21.0,Low
+EV Station 390,Kochi,Kerala,10.660527,94.906257,CCS,Moderate,13.68,Low
+EV Station 391,Dwarka,Delhi,35.933132,93.043135,Type-2,Cold,4.23,High
+EV Station 392,Ahmedabad,Gujarat,33.283785,78.35396,CHAdeMO,Hot,26.68,Moderate
+EV Station 393,Asansol,West Bengal,16.849116,86.366704,Type-2,Cold,3.07,High
+EV Station 394,Jaipur,Rajasthan,34.128345,81.62895,Type-2,Hot,44.88,Moderate
+EV Station 395,Amritsar,Punjab,18.56052,81.129383,CHAdeMO,Hot,43.74,Moderate
+EV Station 396,Coimbatore,Tamil Nadu,12.434897,71.134186,Type-2,Cold,7.9,High
+EV Station 397,Madurai,Tamil Nadu,22.512923,91.971766,Type-2,Cold,9.01,High
+EV Station 398,Vadodara,Gujarat,32.808478,77.373573,Bharat DC-001,Moderate,17.63,Low
+EV Station 399,Vadodara,Gujarat,32.692593,74.242291,CCS,Moderate,11.85,Low
+EV Station 400,Dwarka,Delhi,22.804902,84.788413,Type-2,Moderate,23.49,Low
+EV Station 401,Coimbatore,Tamil Nadu,12.850317,89.464315,CHAdeMO,Moderate,17.42,Low
+EV Station 402,Asansol,West Bengal,12.451147,94.239053,Type-2,Moderate,22.21,Low
+EV Station 403,Nagpur,Maharashtra,29.309174,87.067526,Bharat DC-001,Hot,36.42,Moderate
+EV Station 404,Chandigarh,Punjab,25.677363,86.755316,CCS,Hot,44.07,Moderate
+EV Station 405,Madurai,Tamil Nadu,27.68071,77.916436,CCS,Hot,39.5,Moderate
+EV Station 406,Dwarka,Delhi,32.11491,87.252649,Bharat DC-001,Hot,34.46,Moderate
+EV Station 407,Mangaluru,Karnataka,27.399967,96.435732,CCS,Moderate,16.55,Low
+EV Station 408,Amritsar,Punjab,23.06405,87.421877,CHAdeMO,Moderate,13.57,Low
+EV Station 409,Noida,Uttar Pradesh,9.182907,96.131043,Bharat DC-001,Hot,34.29,Moderate
+EV Station 410,Dwarka,Delhi,36.021627,68.495632,CHAdeMO,Moderate,18.33,Low
+EV Station 411,Coimbatore,Tamil Nadu,24.9674,94.1207,Bharat DC-001,Hot,32.04,Moderate
+EV Station 412,Noida,Uttar Pradesh,35.689013,88.26531,CHAdeMO,Hot,26.74,Moderate
+EV Station 413,Udaipur,Rajasthan,23.946813,81.718611,CHAdeMO,Moderate,12.08,Low
+EV Station 414,Kozhikode,Kerala,10.26627,85.598974,Type-2,Hot,40.04,Moderate
+EV Station 415,Kolkata,West Bengal,28.482007,91.665636,Bharat DC-001,Moderate,19.12,Low
+EV Station 416,Mangaluru,Karnataka,33.764396,70.319646,CHAdeMO,Moderate,14.93,Low
+EV Station 417,Dwarka,Delhi,14.914646,93.768833,Type-2,Hot,43.17,Moderate
+EV Station 418,Surat,Gujarat,33.288188,92.455987,Type-2,Moderate,22.13,Low
+EV Station 419,Varanasi,Uttar Pradesh,36.605448,68.103308,CCS,Hot,29.26,Moderate
+EV Station 420,Surat,Gujarat,34.053642,83.926851,CHAdeMO,Moderate,22.92,Low
+EV Station 421,Kochi,Kerala,19.149322,92.8769,Bharat DC-001,Moderate,20.95,Low
+EV Station 422,Bengaluru,Karnataka,32.557896,78.911836,CHAdeMO,Hot,29.63,Moderate
+EV Station 423,Durgapur,West Bengal,25.45478,83.674416,CCS,Moderate,13.38,Low
+EV Station 424,Surat,Gujarat,21.240881,92.026628,CCS,Moderate,22.85,Low
+EV Station 425,Nagpur,Maharashtra,17.210825,84.35491,Type-2,Moderate,14.5,Low
+EV Station 426,Lucknow,Uttar Pradesh,25.646298,93.897639,CHAdeMO,Hot,35.5,Moderate
+EV Station 427,Ahmedabad,Gujarat,9.323052,93.602589,CHAdeMO,Hot,30.23,Moderate
+EV Station 428,Nagpur,Maharashtra,8.719248,88.628803,CHAdeMO,Cold,-3.0,High
+EV Station 429,Chandigarh,Punjab,9.413951,94.945751,CHAdeMO,Moderate,13.05,Low
+EV Station 430,Noida,Uttar Pradesh,20.542274,83.037547,Type-2,Moderate,11.59,Low
+EV Station 431,Udaipur,Rajasthan,19.23173,81.055778,Type-2,Cold,8.36,High
+EV Station 432,Rohini,Delhi,25.265839,85.151003,Bharat DC-001,Moderate,19.33,Low
+EV Station 433,Durgapur,West Bengal,20.220066,88.798107,Bharat DC-001,Moderate,19.79,Low
+EV Station 434,New Delhi,Delhi,10.468212,83.62108,Bharat DC-001,Cold,3.55,High
+EV Station 435,Lucknow,Uttar Pradesh,13.339317,74.016201,CHAdeMO,Hot,33.8,Moderate
+EV Station 436,Lucknow,Uttar Pradesh,8.271048,74.82271,Type-2,Cold,6.94,High
+EV Station 437,Madurai,Tamil Nadu,20.629947,87.74375,CCS,Cold,-2.99,High
+EV Station 438,Chandigarh,Punjab,10.958725,89.260121,CCS,Hot,26.87,Moderate
+EV Station 439,Amritsar,Punjab,21.278806,77.731693,Bharat DC-001,Moderate,11.38,Low
+EV Station 440,Kochi,Kerala,17.085655,82.535611,CCS,Hot,27.5,Moderate
+EV Station 441,Kozhikode,Kerala,16.020177,93.944412,Type-2,Cold,9.05,High
+EV Station 442,Lucknow,Uttar Pradesh,36.634766,91.513422,Bharat DC-001,Cold,-0.46,High
+EV Station 443,Coimbatore,Tamil Nadu,16.938942,84.632171,CHAdeMO,Moderate,16.92,Low
+EV Station 444,Jodhpur,Rajasthan,13.373596,80.269156,Bharat DC-001,Moderate,22.53,Low
+EV Station 445,Dwarka,Delhi,26.930103,90.441621,CCS,Moderate,19.41,Low
+EV Station 446,Ahmedabad,Gujarat,28.724639,86.298541,CHAdeMO,Cold,-3.87,High
+EV Station 447,Surat,Gujarat,24.832894,84.194037,Type-2,Hot,30.12,Moderate
+EV Station 448,Kochi,Kerala,30.235123,69.903673,CHAdeMO,Cold,1.82,High
+EV Station 449,Asansol,West Bengal,32.828727,85.888909,Type-2,Cold,-6.49,High
+EV Station 450,Varanasi,Uttar Pradesh,24.297654,96.115849,CHAdeMO,Moderate,17.29,Low
+EV Station 451,Madurai,Tamil Nadu,19.240818,85.842109,CHAdeMO,Hot,44.56,Moderate
+EV Station 452,Mysuru,Karnataka,22.066194,75.958635,CHAdeMO,Moderate,23.41,Low
+EV Station 453,Kozhikode,Kerala,35.620264,96.523464,CHAdeMO,Hot,44.06,Moderate
+EV Station 454,Durgapur,West Bengal,34.808825,83.632294,Bharat DC-001,Hot,32.44,Moderate
+EV Station 455,Dwarka,Delhi,21.585971,72.133581,Type-2,Cold,5.04,High
+EV Station 456,Amritsar,Punjab,11.197963,81.892781,Bharat DC-001,Moderate,18.62,Low
+EV Station 457,Noida,Uttar Pradesh,29.405013,73.072373,CHAdeMO,Hot,33.81,Moderate
+EV Station 458,Pune,Maharashtra,10.670017,78.867184,Type-2,Hot,40.86,Moderate
+EV Station 459,Kochi,Kerala,26.097358,73.205291,Type-2,Moderate,15.13,Low
+EV Station 460,Dwarka,Delhi,16.351,84.721589,CHAdeMO,Hot,34.93,Moderate
+EV Station 461,Udaipur,Rajasthan,16.287953,68.182638,CCS,Moderate,16.77,Low
+EV Station 462,New Delhi,Delhi,13.65011,79.086926,Bharat DC-001,Cold,-4.31,High
+EV Station 463,New Delhi,Delhi,10.373229,74.007889,CHAdeMO,Moderate,11.7,Low
+EV Station 464,Pune,Maharashtra,26.703091,78.042673,CHAdeMO,Hot,37.86,Moderate
+EV Station 465,Rohini,Delhi,23.410159,70.167532,Bharat DC-001,Cold,9.1,High
+EV Station 466,Coimbatore,Tamil Nadu,21.29289,80.151977,Bharat DC-001,Hot,43.94,Moderate
+EV Station 467,Mangaluru,Karnataka,36.516099,79.560536,CHAdeMO,Moderate,16.31,Low
+EV Station 468,Dwarka,Delhi,16.449364,94.156123,Bharat DC-001,Cold,5.2,High
+EV Station 469,New Delhi,Delhi,30.479253,69.193864,CCS,Cold,-0.01,High
+EV Station 470,Asansol,West Bengal,22.245205,77.48176,Type-2,Moderate,12.4,Low
+EV Station 471,Madurai,Tamil Nadu,17.551648,96.453998,CHAdeMO,Cold,2.64,High
+EV Station 472,Jaipur,Rajasthan,28.527459,95.374679,CCS,Cold,1.43,High
+EV Station 473,Amritsar,Punjab,24.176297,90.282841,CHAdeMO,Moderate,15.26,Low
+EV Station 474,Jaipur,Rajasthan,16.203907,78.707429,CHAdeMO,Cold,0.19,High
+EV Station 475,Kolkata,West Bengal,27.820018,69.965913,CCS,Hot,40.23,Moderate
+EV Station 476,Dwarka,Delhi,9.244481,89.805161,CHAdeMO,Moderate,24.39,Low
+EV Station 477,Coimbatore,Tamil Nadu,15.023745,81.123212,CCS,Cold,-1.96,High
+EV Station 478,Mumbai,Maharashtra,19.024421,87.597961,CCS,Moderate,18.58,Low
+EV Station 479,Dwarka,Delhi,22.822518,80.529869,CHAdeMO,Hot,39.19,Moderate
+EV Station 480,Durgapur,West Bengal,28.743607,71.552559,CCS,Cold,9.53,High
+EV Station 481,Pune,Maharashtra,21.119226,79.171434,Type-2,Moderate,24.89,Low
+EV Station 482,Noida,Uttar Pradesh,34.251062,85.919726,CCS,Cold,3.6,High
+EV Station 483,Mangaluru,Karnataka,19.61129,74.153112,Bharat DC-001,Cold,-6.43,High
+EV Station 484,Asansol,West Bengal,24.032546,70.271783,Bharat DC-001,Hot,34.93,Moderate
+EV Station 485,Pune,Maharashtra,22.942109,73.600538,CHAdeMO,Moderate,11.39,Low
+EV Station 486,Lucknow,Uttar Pradesh,26.217686,83.716032,Bharat DC-001,Moderate,18.16,Low
+EV Station 487,Dwarka,Delhi,31.284477,86.132428,CHAdeMO,Cold,-6.2,High
+EV Station 488,Amritsar,Punjab,10.672037,88.407417,CHAdeMO,Cold,-0.29,High
+EV Station 489,Chandigarh,Punjab,22.617443,75.156636,Type-2,Moderate,17.89,Low
+EV Station 490,Mumbai,Maharashtra,16.542163,69.940677,Type-2,Cold,8.99,High
+EV Station 491,Asansol,West Bengal,14.079331,90.31012,Bharat DC-001,Moderate,22.62,Low
+EV Station 492,Surat,Gujarat,24.493643,90.752656,CHAdeMO,Hot,33.18,Moderate
+EV Station 493,Chandigarh,Punjab,16.079126,69.815327,Bharat DC-001,Hot,43.92,Moderate
+EV Station 494,Chennai,Tamil Nadu,11.060697,89.568629,Type-2,Hot,30.53,Moderate
+EV Station 495,Kozhikode,Kerala,24.859431,73.567972,Bharat DC-001,Cold,0.92,High
+EV Station 496,Jodhpur,Rajasthan,13.312579,94.64059,CCS,Hot,28.23,Moderate
+EV Station 497,Asansol,West Bengal,14.519036,84.84923,Type-2,Moderate,13.3,Low
+EV Station 498,Pune,Maharashtra,13.149044,90.790384,CCS,Cold,3.41,High
+EV Station 499,Chennai,Tamil Nadu,26.747807,91.2769,CHAdeMO,Cold,-0.1,High
+EV Station 500,Mangaluru,Karnataka,14.984407,86.892216,CCS,Cold,-6.85,High
+EV Station 501,Madurai,Tamil Nadu,26.347121,68.542016,Type-2,Moderate,23.1,Low
+EV Station 502,Kozhikode,Kerala,16.133456,84.040864,Type-2,Cold,-6.18,High
+EV Station 503,Kochi,Kerala,11.800508,68.330126,CHAdeMO,Cold,4.2,High
+EV Station 504,Asansol,West Bengal,21.724697,74.239168,Bharat DC-001,Cold,3.22,High
+EV Station 505,Durgapur,West Bengal,17.24045,78.115027,Type-2,Cold,1.82,High
+EV Station 506,Madurai,Tamil Nadu,24.187908,95.056103,CCS,Hot,38.55,Moderate
+EV Station 507,Rohini,Delhi,9.17436,95.165764,Type-2,Hot,38.83,Moderate
+EV Station 508,Noida,Uttar Pradesh,21.842644,71.088014,CHAdeMO,Cold,8.63,High
+EV Station 509,Pune,Maharashtra,31.922513,75.408181,CCS,Hot,39.99,Moderate
+EV Station 510,Coimbatore,Tamil Nadu,18.059953,87.654447,CCS,Moderate,17.5,Low
+EV Station 511,Amritsar,Punjab,14.960981,70.748973,Bharat DC-001,Cold,4.06,High
+EV Station 512,Nagpur,Maharashtra,10.849485,73.64109,CCS,Hot,31.48,Moderate
+EV Station 513,Ahmedabad,Gujarat,30.387737,70.226365,Type-2,Hot,44.69,Moderate
+EV Station 514,Ludhiana,Punjab,18.119443,73.35894,Bharat DC-001,Cold,6.1,High
+EV Station 515,Ahmedabad,Gujarat,17.723846,95.786803,Type-2,Cold,-1.81,High
+EV Station 516,Chennai,Tamil Nadu,25.724459,91.131544,CHAdeMO,Cold,4.0,High
+EV Station 517,Jaipur,Rajasthan,29.242371,85.444534,Bharat DC-001,Moderate,17.98,Low
+EV Station 518,Dwarka,Delhi,17.914787,89.926554,CHAdeMO,Hot,35.14,Moderate
+EV Station 519,Kochi,Kerala,21.348505,71.860518,CHAdeMO,Moderate,14.58,Low
+EV Station 520,Vadodara,Gujarat,24.3273,96.785749,CHAdeMO,Hot,36.22,Moderate
+EV Station 521,Chandigarh,Punjab,34.948772,81.051031,CHAdeMO,Cold,5.72,High
+EV Station 522,Coimbatore,Tamil Nadu,22.860686,72.236537,CHAdeMO,Moderate,14.38,Low
+EV Station 523,New Delhi,Delhi,33.99374,96.560908,CHAdeMO,Hot,35.11,Moderate
+EV Station 524,Madurai,Tamil Nadu,21.048683,96.97529,Bharat DC-001,Moderate,16.92,Low
+EV Station 525,Mangaluru,Karnataka,12.356959,69.451866,CCS,Moderate,19.44,Low
+EV Station 526,New Delhi,Delhi,24.815686,87.275104,CHAdeMO,Hot,33.31,Moderate
+EV Station 527,Durgapur,West Bengal,36.65635,91.700641,Bharat DC-001,Cold,1.22,High
+EV Station 528,Jaipur,Rajasthan,12.846366,85.233846,Bharat DC-001,Moderate,14.52,Low
+EV Station 529,Noida,Uttar Pradesh,34.997763,74.226773,Type-2,Moderate,24.65,Low
+EV Station 530,Vadodara,Gujarat,10.765111,79.254572,CCS,Hot,37.05,Moderate
+EV Station 531,Surat,Gujarat,15.274053,92.212956,CCS,Hot,43.92,Moderate
+EV Station 532,Mysuru,Karnataka,8.927078,70.540825,CHAdeMO,Cold,-9.74,High
+EV Station 533,Chandigarh,Punjab,19.955764,80.61639,CCS,Hot,42.85,Moderate
+EV Station 534,New Delhi,Delhi,9.646727,82.579983,CHAdeMO,Hot,30.78,Moderate
+EV Station 535,Jaipur,Rajasthan,31.968201,71.079175,Type-2,Cold,-9.21,High
+EV Station 536,Bengaluru,Karnataka,23.350059,92.079193,Type-2,Cold,6.88,High
+EV Station 537,Rohini,Delhi,34.845741,85.229415,Bharat DC-001,Moderate,24.8,Low
+EV Station 538,Surat,Gujarat,14.067792,79.190465,Type-2,Cold,-2.95,High
+EV Station 539,Ahmedabad,Gujarat,11.781229,80.865522,CHAdeMO,Cold,4.23,High
+EV Station 540,Udaipur,Rajasthan,31.881922,83.109364,Bharat DC-001,Hot,44.05,Moderate
+EV Station 541,Surat,Gujarat,9.132754,85.041756,CCS,Hot,38.73,Moderate
+EV Station 542,Kozhikode,Kerala,33.020283,72.44472,CHAdeMO,Hot,34.48,Moderate
+EV Station 543,New Delhi,Delhi,30.426574,90.645769,CHAdeMO,Moderate,23.98,Low
+EV Station 544,Rohini,Delhi,15.470853,83.028561,CHAdeMO,Moderate,19.79,Low
+EV Station 545,Surat,Gujarat,26.871829,71.018658,CCS,Hot,37.39,Moderate
+EV Station 546,Kochi,Kerala,9.896448,89.08521,CCS,Hot,35.17,Moderate
+EV Station 547,Asansol,West Bengal,25.908771,96.825117,Type-2,Hot,31.18,Moderate
+EV Station 548,Asansol,West Bengal,14.85032,88.121283,Type-2,Cold,1.4,High
+EV Station 549,Mumbai,Maharashtra,17.828599,77.545088,Type-2,Moderate,21.93,Low
+EV Station 550,Rohini,Delhi,27.605392,88.911287,CHAdeMO,Cold,6.34,High
+EV Station 551,Madurai,Tamil Nadu,26.542923,87.529379,Type-2,Moderate,17.02,Low
+EV Station 552,Varanasi,Uttar Pradesh,23.763547,94.427292,Bharat DC-001,Cold,5.68,High
+EV Station 553,New Delhi,Delhi,12.449918,91.938791,Type-2,Hot,36.5,Moderate
+EV Station 554,Surat,Gujarat,34.643816,73.760426,Bharat DC-001,Hot,42.88,Moderate
+EV Station 555,Jodhpur,Rajasthan,21.381808,80.315413,CCS,Moderate,24.12,Low
+EV Station 556,Rohini,Delhi,20.259175,83.443332,Type-2,Moderate,19.37,Low
+EV Station 557,Chandigarh,Punjab,13.341157,76.975888,Type-2,Cold,1.6,High
+EV Station 558,Rohini,Delhi,22.385526,84.62677,CCS,Moderate,18.86,Low
+EV Station 559,Amritsar,Punjab,17.900992,75.970469,CHAdeMO,Hot,31.38,Moderate
+EV Station 560,Nagpur,Maharashtra,30.033289,91.665336,CCS,Cold,5.93,High
+EV Station 561,Coimbatore,Tamil Nadu,23.529151,86.262643,Type-2,Cold,3.73,High
+EV Station 562,Durgapur,West Bengal,24.005819,80.496098,CHAdeMO,Moderate,22.78,Low
+EV Station 563,Durgapur,West Bengal,13.013531,88.043568,CCS,Cold,-3.08,High
+EV Station 564,Kozhikode,Kerala,19.538197,72.81924,Bharat DC-001,Hot,38.59,Moderate
+EV Station 565,Dwarka,Delhi,24.041976,93.964511,Bharat DC-001,Hot,26.05,Moderate
+EV Station 566,Thiruvananthapuram,Kerala,23.540349,85.406124,CCS,Moderate,17.31,Low
+EV Station 567,Dwarka,Delhi,27.669002,85.791449,Bharat DC-001,Cold,8.16,High
+EV Station 568,Bengaluru,Karnataka,31.555752,83.685052,Type-2,Moderate,11.94,Low
+EV Station 569,Ahmedabad,Gujarat,9.638035,72.59719,Bharat DC-001,Hot,30.24,Moderate
+EV Station 570,New Delhi,Delhi,15.0074,69.212853,Bharat DC-001,Hot,43.92,Moderate
+EV Station 571,Mangaluru,Karnataka,8.565738,91.070912,CHAdeMO,Moderate,14.62,Low
+EV Station 572,Madurai,Tamil Nadu,16.416193,86.594616,CCS,Cold,4.54,High
+EV Station 573,Vadodara,Gujarat,18.895131,79.66818,CHAdeMO,Cold,4.57,High
+EV Station 574,Ahmedabad,Gujarat,15.287535,79.049167,Bharat DC-001,Hot,28.19,Moderate
+EV Station 575,Dwarka,Delhi,30.439655,75.866353,Bharat DC-001,Hot,39.45,Moderate
+EV Station 576,Mangaluru,Karnataka,21.72428,90.270328,CCS,Cold,-7.54,High
+EV Station 577,Surat,Gujarat,10.238061,82.359382,CCS,Cold,-9.07,High
+EV Station 578,Kolkata,West Bengal,34.837983,85.522255,Bharat DC-001,Moderate,15.62,Low
+EV Station 579,Madurai,Tamil Nadu,26.812184,95.57261,Type-2,Cold,5.88,High
+EV Station 580,Surat,Gujarat,22.361981,75.869542,Type-2,Moderate,21.3,Low
+EV Station 581,Amritsar,Punjab,19.918764,88.603946,Type-2,Cold,0.62,High
+EV Station 582,Noida,Uttar Pradesh,25.336064,85.165407,Bharat DC-001,Hot,28.12,Moderate
+EV Station 583,Mumbai,Maharashtra,36.62182,90.452803,Type-2,Cold,-2.38,High
+EV Station 584,Dwarka,Delhi,27.309391,79.195373,CCS,Cold,-9.74,High
+EV Station 585,Bengaluru,Karnataka,8.162251,85.970279,Type-2,Moderate,12.22,Low
+EV Station 586,Madurai,Tamil Nadu,13.199204,96.325258,CHAdeMO,Hot,27.58,Moderate
+EV Station 587,New Delhi,Delhi,28.984762,68.141382,CHAdeMO,Cold,-0.19,High
+EV Station 588,Lucknow,Uttar Pradesh,14.368347,83.892503,Type-2,Hot,32.09,Moderate
+EV Station 589,Mysuru,Karnataka,29.149084,70.25291,Type-2,Hot,31.1,Moderate
+EV Station 590,Chennai,Tamil Nadu,29.835263,73.660217,CCS,Cold,0.71,High
+EV Station 591,Rohini,Delhi,12.284096,89.597532,Type-2,Hot,29.81,Moderate
+EV Station 592,Bengaluru,Karnataka,10.922119,75.86712,Type-2,Hot,33.16,Moderate
+EV Station 593,Asansol,West Bengal,11.398459,74.971797,CHAdeMO,Cold,1.02,High
+EV Station 594,Rohini,Delhi,19.279946,92.210371,Type-2,Cold,-3.05,High
+EV Station 595,Nagpur,Maharashtra,19.111217,91.992199,CCS,Moderate,23.75,Low
+EV Station 596,Chandigarh,Punjab,13.466956,79.254004,Bharat DC-001,Moderate,19.87,Low
+EV Station 597,Durgapur,West Bengal,15.236483,73.079657,Bharat DC-001,Hot,31.79,Moderate
+EV Station 598,Amritsar,Punjab,11.70815,93.535819,Bharat DC-001,Cold,0.38,High
+EV Station 599,Thiruvananthapuram,Kerala,10.397615,84.20307,CCS,Hot,42.86,Moderate
+EV Station 600,Mysuru,Karnataka,8.745978,71.008924,CHAdeMO,Moderate,22.23,Low
+EV Station 601,Jaipur,Rajasthan,18.804811,95.972801,Bharat DC-001,Moderate,19.04,Low
+EV Station 602,Varanasi,Uttar Pradesh,29.583743,94.169637,CCS,Moderate,22.86,Low
+EV Station 603,Jodhpur,Rajasthan,24.470042,74.230343,CHAdeMO,Moderate,15.76,Low
+EV Station 604,Jodhpur,Rajasthan,9.099233,96.745248,CCS,Moderate,23.19,Low
+EV Station 605,Durgapur,West Bengal,31.910011,71.878403,Bharat DC-001,Hot,35.23,Moderate
+EV Station 606,Chandigarh,Punjab,18.075035,84.487263,CCS,Moderate,19.38,Low
+EV Station 607,Ludhiana,Punjab,20.152943,68.343713,Bharat DC-001,Hot,33.53,Moderate
+EV Station 608,Nagpur,Maharashtra,8.397003,96.919504,CHAdeMO,Hot,42.65,Moderate
+EV Station 609,Varanasi,Uttar Pradesh,12.872719,81.918106,CHAdeMO,Moderate,11.74,Low
+EV Station 610,Kochi,Kerala,9.725755,70.492157,Type-2,Moderate,12.44,Low
+EV Station 611,Thiruvananthapuram,Kerala,33.492919,87.586544,Type-2,Hot,30.46,Moderate
+EV Station 612,Lucknow,Uttar Pradesh,24.316635,69.085393,Bharat DC-001,Cold,-6.45,High
+EV Station 613,Mysuru,Karnataka,27.446041,69.27541,Bharat DC-001,Moderate,14.25,Low
+EV Station 614,Amritsar,Punjab,26.965028,90.901129,Type-2,Cold,-6.73,High
+EV Station 615,Chandigarh,Punjab,11.186013,86.488393,CHAdeMO,Moderate,18.95,Low
+EV Station 616,Coimbatore,Tamil Nadu,29.180075,90.616415,CHAdeMO,Cold,1.35,High
+EV Station 617,Mysuru,Karnataka,32.024735,81.175899,Bharat DC-001,Hot,29.48,Moderate
+EV Station 618,Madurai,Tamil Nadu,10.803649,95.736394,CHAdeMO,Moderate,15.0,Low
+EV Station 619,Pune,Maharashtra,35.71739,86.616584,Type-2,Moderate,18.71,Low
+EV Station 620,Jodhpur,Rajasthan,22.696633,82.113707,Type-2,Moderate,13.5,Low
+EV Station 621,Mysuru,Karnataka,15.160771,78.155037,CCS,Cold,7.39,High
+EV Station 622,Asansol,West Bengal,20.975628,77.352502,CCS,Hot,35.27,Moderate
+EV Station 623,Bengaluru,Karnataka,16.140519,84.397273,Type-2,Hot,29.58,Moderate
+EV Station 624,Mumbai,Maharashtra,25.375199,86.801397,Type-2,Moderate,16.54,Low
+EV Station 625,Chennai,Tamil Nadu,17.30643,86.455671,CCS,Moderate,23.61,Low
+EV Station 626,Amritsar,Punjab,36.660661,75.762672,Type-2,Cold,-3.97,High
+EV Station 627,Durgapur,West Bengal,35.408077,81.197584,CHAdeMO,Moderate,23.86,Low
+EV Station 628,Ahmedabad,Gujarat,30.433383,71.162338,Bharat DC-001,Moderate,12.29,Low
+EV Station 629,Kolkata,West Bengal,10.890496,84.783446,Type-2,Cold,2.7,High
+EV Station 630,Varanasi,Uttar Pradesh,19.320524,88.88211,CHAdeMO,Moderate,24.9,Low
+EV Station 631,Mumbai,Maharashtra,35.636189,81.332458,Type-2,Hot,34.84,Moderate
+EV Station 632,Jodhpur,Rajasthan,27.916761,71.1361,Type-2,Moderate,24.61,Low
+EV Station 633,Chennai,Tamil Nadu,30.155621,80.616454,Type-2,Hot,32.78,Moderate
+EV Station 634,Bengaluru,Karnataka,20.686775,96.726657,Bharat DC-001,Moderate,24.41,Low
+EV Station 635,New Delhi,Delhi,28.649926,95.672198,CHAdeMO,Moderate,23.49,Low
+EV Station 636,Jaipur,Rajasthan,35.85702,95.66261,CHAdeMO,Cold,-1.01,High
+EV Station 637,Udaipur,Rajasthan,36.169025,68.175074,Bharat DC-001,Cold,0.24,High
+EV Station 638,New Delhi,Delhi,30.646535,95.075789,Type-2,Cold,5.17,High
+EV Station 639,Chandigarh,Punjab,23.074665,90.188152,CCS,Hot,36.03,Moderate
+EV Station 640,Noida,Uttar Pradesh,16.804754,74.935959,Bharat DC-001,Hot,41.11,Moderate
+EV Station 641,Ludhiana,Punjab,25.96052,90.803219,CHAdeMO,Hot,26.35,Moderate
+EV Station 642,Surat,Gujarat,34.974736,82.360949,Type-2,Hot,29.91,Moderate
+EV Station 643,Varanasi,Uttar Pradesh,17.252697,83.82174,CCS,Cold,0.19,High
+EV Station 644,Mumbai,Maharashtra,29.409421,92.590329,Bharat DC-001,Cold,6.01,High
+EV Station 645,Asansol,West Bengal,12.063318,74.423773,CHAdeMO,Cold,-8.34,High
+EV Station 646,Kozhikode,Kerala,35.622423,89.416397,CHAdeMO,Hot,43.55,Moderate
+EV Station 647,Kozhikode,Kerala,29.013885,91.482832,CHAdeMO,Cold,-7.19,High
+EV Station 648,Dwarka,Delhi,13.448867,90.377222,Type-2,Hot,27.23,Moderate
+EV Station 649,Kozhikode,Kerala,12.571479,92.401652,CHAdeMO,Cold,-0.72,High
+EV Station 650,Jodhpur,Rajasthan,35.226529,90.287782,Bharat DC-001,Cold,7.41,High
+EV Station 651,Noida,Uttar Pradesh,28.541472,83.437008,Bharat DC-001,Moderate,17.93,Low
+EV Station 652,Jaipur,Rajasthan,13.129884,71.635652,Bharat DC-001,Hot,27.15,Moderate
+EV Station 653,Dwarka,Delhi,34.678363,93.00499,Bharat DC-001,Cold,9.12,High
+EV Station 654,Varanasi,Uttar Pradesh,8.745295,81.673732,CHAdeMO,Cold,-9.1,High
+EV Station 655,Ludhiana,Punjab,33.209856,87.789563,Type-2,Cold,-6.03,High
+EV Station 656,Mangaluru,Karnataka,33.435505,79.147443,Bharat DC-001,Moderate,15.18,Low
+EV Station 657,Chennai,Tamil Nadu,24.36287,87.142508,Type-2,Cold,-9.51,High
+EV Station 658,Chennai,Tamil Nadu,30.977502,86.919203,Bharat DC-001,Cold,1.39,High
+EV Station 659,Durgapur,West Bengal,27.109162,88.349826,CHAdeMO,Moderate,17.49,Low
+EV Station 660,Durgapur,West Bengal,13.743304,87.133974,Bharat DC-001,Cold,-1.98,High
+EV Station 661,Mumbai,Maharashtra,22.160223,88.312836,Bharat DC-001,Cold,5.23,High
+EV Station 662,Udaipur,Rajasthan,13.206233,69.48886,CHAdeMO,Cold,8.59,High
+EV Station 663,Kolkata,West Bengal,22.933098,68.452655,CHAdeMO,Moderate,24.61,Low
+EV Station 664,Mysuru,Karnataka,36.026535,93.087442,CCS,Hot,33.91,Moderate
+EV Station 665,Thiruvananthapuram,Kerala,20.257071,77.484242,Type-2,Cold,4.64,High
+EV Station 666,Jodhpur,Rajasthan,35.284252,81.077468,CHAdeMO,Cold,6.61,High
+EV Station 667,Mumbai,Maharashtra,36.343521,82.26436,CCS,Hot,44.43,Moderate
+EV Station 668,Ahmedabad,Gujarat,8.495296,68.075119,Type-2,Moderate,13.47,Low
+EV Station 669,Noida,Uttar Pradesh,20.691034,88.138472,CCS,Cold,6.5,High
+EV Station 670,Vadodara,Gujarat,10.001167,84.751746,CCS,Moderate,19.51,Low
+EV Station 671,Mumbai,Maharashtra,21.800123,76.988582,CCS,Moderate,19.46,Low
+EV Station 672,Asansol,West Bengal,14.528435,85.369896,Bharat DC-001,Moderate,11.57,Low
+EV Station 673,Kozhikode,Kerala,13.872402,80.023832,Bharat DC-001,Moderate,12.72,Low
+EV Station 674,Lucknow,Uttar Pradesh,18.523108,94.008115,CHAdeMO,Moderate,20.27,Low
+EV Station 675,Rohini,Delhi,32.578664,92.566646,Type-2,Hot,37.27,Moderate
+EV Station 676,Madurai,Tamil Nadu,10.065973,79.225876,CHAdeMO,Moderate,18.27,Low
+EV Station 677,Kochi,Kerala,10.728103,76.700456,CHAdeMO,Hot,44.89,Moderate
+EV Station 678,Mysuru,Karnataka,29.519992,69.294999,CCS,Moderate,13.92,Low
+EV Station 679,Kolkata,West Bengal,29.990686,83.226366,Type-2,Moderate,21.28,Low
+EV Station 680,Chennai,Tamil Nadu,13.812097,78.370469,CCS,Hot,43.49,Moderate
+EV Station 681,Lucknow,Uttar Pradesh,24.06933,82.161768,Bharat DC-001,Hot,34.89,Moderate
+EV Station 682,Coimbatore,Tamil Nadu,30.226673,81.315302,CHAdeMO,Hot,33.97,Moderate
+EV Station 683,Pune,Maharashtra,16.030348,85.633176,CHAdeMO,Cold,6.73,High
+EV Station 684,Lucknow,Uttar Pradesh,24.928454,94.668756,Bharat DC-001,Moderate,19.84,Low
+EV Station 685,Ludhiana,Punjab,31.170413,70.845376,CCS,Hot,38.2,Moderate
+EV Station 686,Kozhikode,Kerala,15.704442,68.508175,Type-2,Cold,-1.19,High
+EV Station 687,Rohini,Delhi,32.728768,89.683672,CCS,Hot,26.78,Moderate
+EV Station 688,Vadodara,Gujarat,35.717657,82.530262,Bharat DC-001,Moderate,12.98,Low
+EV Station 689,Jaipur,Rajasthan,18.998191,70.882188,CCS,Hot,38.34,Moderate
+EV Station 690,Nagpur,Maharashtra,13.824089,70.659441,CHAdeMO,Cold,6.73,High
+EV Station 691,Pune,Maharashtra,25.471293,68.805672,CHAdeMO,Hot,27.37,Moderate
+EV Station 692,Durgapur,West Bengal,11.606372,95.611003,Bharat DC-001,Hot,39.57,Moderate
+EV Station 693,Durgapur,West Bengal,15.606422,69.458462,Bharat DC-001,Hot,33.88,Moderate
+EV Station 694,Mysuru,Karnataka,25.598131,95.830461,CHAdeMO,Hot,28.78,Moderate
+EV Station 695,Kolkata,West Bengal,28.438001,92.705448,CCS,Hot,32.19,Moderate
+EV Station 696,Noida,Uttar Pradesh,30.421301,82.669637,Type-2,Cold,2.06,High
+EV Station 697,Pune,Maharashtra,23.281767,85.993868,CCS,Moderate,19.89,Low
+EV Station 698,Ahmedabad,Gujarat,29.333616,80.114421,CCS,Hot,27.25,Moderate
+EV Station 699,Kozhikode,Kerala,32.973024,89.890656,CHAdeMO,Hot,33.89,Moderate
+EV Station 700,Asansol,West Bengal,15.89233,80.715873,Type-2,Hot,42.86,Moderate
+EV Station 701,Madurai,Tamil Nadu,12.025845,96.131477,Type-2,Cold,5.46,High
+EV Station 702,Coimbatore,Tamil Nadu,10.448926,77.281856,Type-2,Moderate,22.99,Low
+EV Station 703,Madurai,Tamil Nadu,28.07145,79.272871,Bharat DC-001,Cold,9.45,High
+EV Station 704,Chennai,Tamil Nadu,24.045036,78.446904,CHAdeMO,Hot,37.24,Moderate
+EV Station 705,Kochi,Kerala,13.307614,74.8934,CCS,Cold,9.03,High
+EV Station 706,Chandigarh,Punjab,29.829752,70.926496,CHAdeMO,Moderate,18.44,Low
+EV Station 707,Jodhpur,Rajasthan,29.198769,82.991778,CCS,Moderate,19.98,Low
+EV Station 708,Bengaluru,Karnataka,29.775971,85.596771,CHAdeMO,Moderate,21.14,Low
+EV Station 709,Mysuru,Karnataka,33.338695,80.10336,CHAdeMO,Moderate,24.96,Low
+EV Station 710,Udaipur,Rajasthan,25.024032,89.743026,CCS,Hot,30.89,Moderate
+EV Station 711,Udaipur,Rajasthan,34.813767,74.545971,CHAdeMO,Moderate,14.52,Low
+EV Station 712,Vadodara,Gujarat,20.790025,92.018908,CCS,Cold,5.5,High
+EV Station 713,Madurai,Tamil Nadu,23.971205,72.635268,Type-2,Cold,0.23,High
+EV Station 714,Dwarka,Delhi,27.718481,92.321313,Bharat DC-001,Moderate,18.77,Low
+EV Station 715,Kolkata,West Bengal,17.120951,93.075551,CHAdeMO,Hot,31.44,Moderate
+EV Station 716,Kozhikode,Kerala,36.73542,84.10621,CCS,Cold,9.91,High
+EV Station 717,New Delhi,Delhi,20.202851,86.375044,CCS,Cold,7.34,High
+EV Station 718,Amritsar,Punjab,23.729885,87.253758,CHAdeMO,Cold,-4.54,High
+EV Station 719,Kochi,Kerala,12.441344,81.478702,Bharat DC-001,Hot,29.78,Moderate
+EV Station 720,Durgapur,West Bengal,10.021797,95.820554,Bharat DC-001,Hot,43.44,Moderate
+EV Station 721,Nagpur,Maharashtra,21.982071,91.994788,Type-2,Cold,-6.44,High
+EV Station 722,Bengaluru,Karnataka,23.460473,88.636175,Bharat DC-001,Cold,-3.08,High
+EV Station 723,Pune,Maharashtra,14.815783,89.44651,Type-2,Cold,-0.97,High
+EV Station 724,Ludhiana,Punjab,11.389147,71.665171,CHAdeMO,Moderate,13.79,Low
+EV Station 725,Udaipur,Rajasthan,9.395615,94.350607,CCS,Cold,7.15,High
+EV Station 726,Durgapur,West Bengal,30.143664,68.657936,CHAdeMO,Hot,27.81,Moderate
+EV Station 727,Ludhiana,Punjab,33.201783,78.760507,Type-2,Hot,26.82,Moderate
+EV Station 728,Coimbatore,Tamil Nadu,22.970974,93.826492,Bharat DC-001,Moderate,17.08,Low
+EV Station 729,Jaipur,Rajasthan,28.758968,83.35831,Bharat DC-001,Hot,43.65,Moderate
+EV Station 730,Pune,Maharashtra,9.537113,73.959811,Type-2,Moderate,17.72,Low
+EV Station 731,Jodhpur,Rajasthan,34.303503,84.179862,Type-2,Hot,42.51,Moderate
+EV Station 732,Ludhiana,Punjab,14.277872,93.593277,Bharat DC-001,Hot,39.13,Moderate
+EV Station 733,Jodhpur,Rajasthan,33.905402,75.258215,CHAdeMO,Cold,-2.8,High
+EV Station 734,Chennai,Tamil Nadu,19.713814,88.987246,CCS,Moderate,14.03,Low
+EV Station 735,Amritsar,Punjab,12.844536,70.200589,CCS,Hot,43.97,Moderate
+EV Station 736,Jaipur,Rajasthan,15.899634,75.832659,Bharat DC-001,Cold,-2.45,High
+EV Station 737,Mangaluru,Karnataka,28.767361,69.564382,Type-2,Moderate,20.32,Low
+EV Station 738,Vadodara,Gujarat,12.426186,79.08586,CCS,Hot,26.17,Moderate
+EV Station 739,Dwarka,Delhi,23.13254,94.991427,Type-2,Hot,40.15,Moderate
+EV Station 740,Kozhikode,Kerala,19.032528,96.490644,Bharat DC-001,Cold,-0.47,High
+EV Station 741,Chandigarh,Punjab,26.259534,73.859102,Type-2,Hot,43.76,Moderate
+EV Station 742,Kochi,Kerala,32.064631,85.110377,CCS,Cold,4.87,High
+EV Station 743,Madurai,Tamil Nadu,28.829334,70.100741,CCS,Hot,35.76,Moderate
+EV Station 744,Mysuru,Karnataka,27.149099,73.672903,Type-2,Moderate,13.71,Low
+EV Station 745,Kochi,Kerala,11.609757,84.311034,CCS,Hot,26.0,Moderate
+EV Station 746,Varanasi,Uttar Pradesh,8.585541,79.995414,CHAdeMO,Cold,-2.15,High
+EV Station 747,Thiruvananthapuram,Kerala,36.098311,91.91887,Type-2,Hot,43.3,Moderate
+EV Station 748,Kochi,Kerala,22.853369,92.980237,CHAdeMO,Hot,26.99,Moderate
+EV Station 749,Varanasi,Uttar Pradesh,11.050123,78.127564,Bharat DC-001,Cold,6.07,High
+EV Station 750,Kozhikode,Kerala,26.293152,85.801932,Bharat DC-001,Hot,38.89,Moderate
+EV Station 751,New Delhi,Delhi,14.132584,86.363631,Bharat DC-001,Hot,29.06,Moderate
+EV Station 752,Bengaluru,Karnataka,18.649757,82.989455,CCS,Cold,5.01,High
+EV Station 753,Amritsar,Punjab,33.824708,87.158659,CCS,Cold,5.67,High
+EV Station 754,Bengaluru,Karnataka,17.445112,93.247614,CCS,Hot,43.27,Moderate
+EV Station 755,Surat,Gujarat,25.511886,88.162014,CHAdeMO,Hot,30.08,Moderate
+EV Station 756,Ahmedabad,Gujarat,35.352408,77.178382,Type-2,Hot,39.3,Moderate
+EV Station 757,Ahmedabad,Gujarat,27.534637,72.429689,Bharat DC-001,Hot,26.22,Moderate
+EV Station 758,Rohini,Delhi,14.908317,93.53632,Bharat DC-001,Moderate,21.06,Low
+EV Station 759,Noida,Uttar Pradesh,21.994349,84.499669,Bharat DC-001,Cold,-3.63,High
+EV Station 760,Madurai,Tamil Nadu,24.479862,69.687241,CHAdeMO,Cold,-9.64,High
+EV Station 761,Coimbatore,Tamil Nadu,26.260537,69.169166,CHAdeMO,Hot,27.82,Moderate
+EV Station 762,Bengaluru,Karnataka,27.826868,68.248383,Type-2,Moderate,15.9,Low
+EV Station 763,Noida,Uttar Pradesh,12.176968,86.455157,Bharat DC-001,Hot,27.85,Moderate
+EV Station 764,Ahmedabad,Gujarat,35.287807,69.623569,CCS,Cold,-0.6,High
+EV Station 765,Ahmedabad,Gujarat,11.154139,91.158708,Type-2,Moderate,24.47,Low
+EV Station 766,Dwarka,Delhi,36.671912,71.198485,Type-2,Cold,-1.58,High
+EV Station 767,Udaipur,Rajasthan,24.744949,96.281319,CCS,Cold,-0.36,High
+EV Station 768,Surat,Gujarat,15.084459,82.470662,Type-2,Hot,29.49,Moderate
+EV Station 769,Mysuru,Karnataka,19.808954,79.453926,CHAdeMO,Cold,0.76,High
+EV Station 770,Asansol,West Bengal,31.161925,81.124512,CHAdeMO,Hot,40.43,Moderate
+EV Station 771,Udaipur,Rajasthan,28.007001,80.465677,CHAdeMO,Cold,-7.32,High
+EV Station 772,Durgapur,West Bengal,33.155881,94.919212,Bharat DC-001,Hot,38.2,Moderate
+EV Station 773,Kochi,Kerala,36.272225,90.939507,Type-2,Moderate,24.98,Low
+EV Station 774,Mangaluru,Karnataka,19.30035,87.410504,CHAdeMO,Hot,41.82,Moderate
+EV Station 775,Chennai,Tamil Nadu,35.495364,93.735539,CCS,Cold,-3.46,High
+EV Station 776,Jaipur,Rajasthan,25.53361,75.252339,CHAdeMO,Cold,-9.77,High
+EV Station 777,Mysuru,Karnataka,11.280283,84.108994,Type-2,Cold,8.34,High
+EV Station 778,Chennai,Tamil Nadu,20.615059,95.602416,CHAdeMO,Moderate,22.02,Low
+EV Station 779,Mumbai,Maharashtra,30.308807,96.025459,Bharat DC-001,Cold,-6.67,High
+EV Station 780,Mysuru,Karnataka,29.128148,90.587471,CCS,Hot,42.72,Moderate
+EV Station 781,Ahmedabad,Gujarat,22.208825,78.767597,Bharat DC-001,Hot,37.91,Moderate
+EV Station 782,Vadodara,Gujarat,13.467195,76.946854,Bharat DC-001,Hot,36.89,Moderate
+EV Station 783,Kochi,Kerala,34.464139,86.013422,CHAdeMO,Moderate,13.54,Low
+EV Station 784,Ludhiana,Punjab,20.357172,85.567916,CHAdeMO,Cold,-0.76,High
+EV Station 785,Chandigarh,Punjab,31.826552,73.500209,Bharat DC-001,Hot,37.73,Moderate
+EV Station 786,Kolkata,West Bengal,15.095557,85.614915,CCS,Hot,43.58,Moderate
+EV Station 787,Amritsar,Punjab,11.701847,72.746309,CCS,Hot,36.17,Moderate
+EV Station 788,Durgapur,West Bengal,14.222678,87.148295,Bharat DC-001,Hot,44.56,Moderate
+EV Station 789,Noida,Uttar Pradesh,11.213901,84.992952,CCS,Moderate,11.95,Low
+EV Station 790,Mumbai,Maharashtra,30.983545,95.969501,CHAdeMO,Moderate,19.07,Low
+EV Station 791,Vadodara,Gujarat,12.998985,89.332943,Bharat DC-001,Moderate,14.73,Low
+EV Station 792,Kochi,Kerala,27.174078,85.256617,CHAdeMO,Hot,32.99,Moderate
+EV Station 793,Thiruvananthapuram,Kerala,12.003639,75.44043,CCS,Cold,-5.78,High
+EV Station 794,Udaipur,Rajasthan,27.149411,71.603687,Type-2,Cold,-5.33,High
+EV Station 795,Nagpur,Maharashtra,11.865266,70.396317,Bharat DC-001,Cold,8.29,High
+EV Station 796,Madurai,Tamil Nadu,8.778036,93.502568,CHAdeMO,Cold,7.02,High
+EV Station 797,Jaipur,Rajasthan,26.921408,83.31274,CCS,Cold,1.22,High
+EV Station 798,Vadodara,Gujarat,35.849185,91.44891,Bharat DC-001,Moderate,14.79,Low
+EV Station 799,Mumbai,Maharashtra,10.220267,79.935849,CHAdeMO,Cold,-1.15,High
+EV Station 800,Lucknow,Uttar Pradesh,20.641276,76.19151,CHAdeMO,Cold,1.01,High
+EV Station 801,Noida,Uttar Pradesh,29.696257,72.912273,Bharat DC-001,Hot,44.02,Moderate
+EV Station 802,Coimbatore,Tamil Nadu,33.51815,84.129486,CCS,Hot,38.29,Moderate
+EV Station 803,Pune,Maharashtra,26.552508,96.22607,CCS,Hot,26.69,Moderate
+EV Station 804,Chandigarh,Punjab,31.385586,96.142998,Bharat DC-001,Hot,34.07,Moderate
+EV Station 805,Madurai,Tamil Nadu,19.427629,86.118766,Bharat DC-001,Cold,8.8,High
+EV Station 806,Kochi,Kerala,14.310616,82.874392,CHAdeMO,Moderate,20.4,Low
+EV Station 807,Madurai,Tamil Nadu,17.296078,94.072849,Type-2,Cold,6.01,High
+EV Station 808,Thiruvananthapuram,Kerala,20.034832,68.155804,Bharat DC-001,Cold,-7.11,High
+EV Station 809,New Delhi,Delhi,15.686671,82.713924,Type-2,Hot,43.98,Moderate
+EV Station 810,Kochi,Kerala,17.573371,90.761376,CCS,Hot,44.01,Moderate
+EV Station 811,Jodhpur,Rajasthan,14.591796,88.159967,CHAdeMO,Hot,41.28,Moderate
+EV Station 812,Thiruvananthapuram,Kerala,29.56385,74.294177,Bharat DC-001,Hot,38.72,Moderate
+EV Station 813,Vadodara,Gujarat,34.607805,76.876943,CCS,Hot,32.21,Moderate
+EV Station 814,Asansol,West Bengal,19.699622,82.352182,CCS,Moderate,15.85,Low
+EV Station 815,Amritsar,Punjab,31.680319,89.877682,CHAdeMO,Moderate,14.54,Low
+EV Station 816,Jaipur,Rajasthan,28.389942,89.989987,CCS,Hot,34.56,Moderate
+EV Station 817,Vadodara,Gujarat,34.912745,83.865576,Type-2,Moderate,23.39,Low
+EV Station 818,Varanasi,Uttar Pradesh,32.291021,70.894815,CCS,Cold,2.45,High
+EV Station 819,Mangaluru,Karnataka,11.396683,71.992419,Type-2,Moderate,23.95,Low
+EV Station 820,Varanasi,Uttar Pradesh,12.842615,76.073274,Bharat DC-001,Cold,2.38,High
+EV Station 821,Ludhiana,Punjab,13.05096,82.286632,Bharat DC-001,Hot,33.68,Moderate
+EV Station 822,Kochi,Kerala,15.620132,94.673357,Type-2,Cold,2.43,High
+EV Station 823,Ahmedabad,Gujarat,29.996713,92.039224,CHAdeMO,Hot,34.53,Moderate
+EV Station 824,Nagpur,Maharashtra,23.907085,92.913486,Bharat DC-001,Moderate,21.02,Low
+EV Station 825,Durgapur,West Bengal,20.247368,86.817501,Type-2,Hot,36.47,Moderate
+EV Station 826,Chandigarh,Punjab,22.998804,75.304839,CHAdeMO,Cold,5.64,High
+EV Station 827,Thiruvananthapuram,Kerala,10.434834,68.838559,Type-2,Cold,5.19,High
+EV Station 828,Jaipur,Rajasthan,27.996537,75.755768,Type-2,Moderate,19.14,Low
+EV Station 829,Kolkata,West Bengal,29.627156,79.27841,CHAdeMO,Cold,-6.8,High
+EV Station 830,Udaipur,Rajasthan,36.176907,72.420608,Type-2,Hot,30.07,Moderate
+EV Station 831,Chandigarh,Punjab,20.532259,72.246291,CCS,Hot,42.42,Moderate
+EV Station 832,Madurai,Tamil Nadu,20.7483,83.471549,CCS,Hot,37.64,Moderate
+EV Station 833,Noida,Uttar Pradesh,31.543445,83.174636,Bharat DC-001,Hot,41.26,Moderate
+EV Station 834,Noida,Uttar Pradesh,15.970733,91.357157,Type-2,Cold,9.69,High
+EV Station 835,Thiruvananthapuram,Kerala,13.835505,69.456632,Type-2,Cold,-1.15,High
+EV Station 836,Kochi,Kerala,10.831967,72.724686,CHAdeMO,Moderate,15.31,Low
+EV Station 837,Rohini,Delhi,17.354803,78.071113,Bharat DC-001,Hot,34.24,Moderate
+EV Station 838,Mumbai,Maharashtra,18.540765,73.666747,CCS,Cold,-3.09,High
+EV Station 839,Mumbai,Maharashtra,23.605591,88.19382,CCS,Moderate,19.08,Low
+EV Station 840,Dwarka,Delhi,21.483339,80.693716,Bharat DC-001,Cold,0.75,High
+EV Station 841,New Delhi,Delhi,10.006071,68.757295,CHAdeMO,Moderate,20.88,Low
+EV Station 842,Pune,Maharashtra,25.760029,90.275194,Type-2,Moderate,11.7,Low
+EV Station 843,Dwarka,Delhi,26.594781,76.17457,CCS,Moderate,17.75,Low
+EV Station 844,Mangaluru,Karnataka,21.758002,79.357037,CHAdeMO,Hot,43.46,Moderate
+EV Station 845,Nagpur,Maharashtra,25.772343,69.378376,CHAdeMO,Cold,4.5,High
+EV Station 846,Coimbatore,Tamil Nadu,35.027482,75.116083,CHAdeMO,Cold,-5.94,High
+EV Station 847,New Delhi,Delhi,34.407895,82.807671,CHAdeMO,Moderate,21.49,Low
+EV Station 848,New Delhi,Delhi,26.685098,70.546663,CHAdeMO,Moderate,23.73,Low
+EV Station 849,Chandigarh,Punjab,19.18083,92.825841,Type-2,Cold,-5.84,High
+EV Station 850,Mangaluru,Karnataka,18.432503,72.798949,CCS,Hot,27.69,Moderate
+EV Station 851,Chennai,Tamil Nadu,29.38466,93.052997,Bharat DC-001,Hot,37.18,Moderate
+EV Station 852,Rohini,Delhi,32.782154,77.993644,Type-2,Hot,27.16,Moderate
+EV Station 853,Ludhiana,Punjab,32.867576,91.005217,CCS,Hot,27.41,Moderate
+EV Station 854,Lucknow,Uttar Pradesh,9.583092,76.423005,Bharat DC-001,Hot,40.97,Moderate
+EV Station 855,Durgapur,West Bengal,32.468234,69.762799,Type-2,Moderate,23.46,Low
+EV Station 856,Ahmedabad,Gujarat,13.440965,86.952792,Type-2,Moderate,12.38,Low
+EV Station 857,Mangaluru,Karnataka,36.452404,77.75805,CHAdeMO,Hot,29.9,Moderate
+EV Station 858,Bengaluru,Karnataka,12.923471,93.044709,CCS,Hot,43.84,Moderate
+EV Station 859,Asansol,West Bengal,10.6828,82.568023,Type-2,Cold,-6.56,High
+EV Station 860,Varanasi,Uttar Pradesh,30.731301,90.462215,Type-2,Moderate,24.81,Low
+EV Station 861,Kolkata,West Bengal,21.922898,74.155034,CHAdeMO,Moderate,19.73,Low
+EV Station 862,Varanasi,Uttar Pradesh,10.374641,73.525757,CHAdeMO,Moderate,17.31,Low
+EV Station 863,Coimbatore,Tamil Nadu,30.676918,77.482421,Bharat DC-001,Moderate,11.94,Low
+EV Station 864,Kolkata,West Bengal,15.769185,94.150059,Type-2,Hot,41.81,Moderate
+EV Station 865,Mangaluru,Karnataka,36.51337,75.038947,Type-2,Moderate,13.47,Low
+EV Station 866,Surat,Gujarat,11.965456,70.490289,CCS,Hot,29.66,Moderate
+EV Station 867,Kolkata,West Bengal,22.640527,69.819376,Bharat DC-001,Moderate,17.35,Low
+EV Station 868,Mumbai,Maharashtra,12.676375,68.155448,Type-2,Cold,7.83,High
+EV Station 869,Durgapur,West Bengal,19.773125,94.324058,CCS,Moderate,12.52,Low
+EV Station 870,Varanasi,Uttar Pradesh,26.682126,95.11746,Bharat DC-001,Hot,42.45,Moderate
+EV Station 871,Ahmedabad,Gujarat,28.879467,80.454269,CHAdeMO,Hot,43.41,Moderate
+EV Station 872,Bengaluru,Karnataka,28.291521,80.973525,CCS,Cold,2.42,High
+EV Station 873,Surat,Gujarat,15.918848,92.96095,CCS,Moderate,20.23,Low
+EV Station 874,Mumbai,Maharashtra,19.714046,96.262326,CHAdeMO,Hot,35.06,Moderate
+EV Station 875,Nagpur,Maharashtra,34.801625,68.348548,Bharat DC-001,Hot,35.04,Moderate
+EV Station 876,Jaipur,Rajasthan,10.990181,73.489156,CHAdeMO,Hot,26.95,Moderate
+EV Station 877,Kochi,Kerala,10.875246,96.739188,Type-2,Cold,-8.23,High
+EV Station 878,Kolkata,West Bengal,14.672161,71.14967,CHAdeMO,Hot,40.44,Moderate
+EV Station 879,Udaipur,Rajasthan,31.412306,68.994314,Type-2,Cold,3.62,High
+EV Station 880,Mysuru,Karnataka,17.440063,83.142427,CCS,Moderate,22.87,Low
+EV Station 881,Udaipur,Rajasthan,31.298814,95.529964,CHAdeMO,Hot,40.5,Moderate
+EV Station 882,Rohini,Delhi,32.222986,83.888795,CCS,Hot,41.65,Moderate
+EV Station 883,Mangaluru,Karnataka,27.704764,68.917103,CCS,Hot,35.49,Moderate
+EV Station 884,Noida,Uttar Pradesh,13.699977,89.579695,Type-2,Cold,-8.24,High
+EV Station 885,Kozhikode,Kerala,33.969916,76.88143,Bharat DC-001,Hot,27.82,Moderate
+EV Station 886,Kolkata,West Bengal,28.480222,91.102,CCS,Hot,29.24,Moderate
+EV Station 887,Bengaluru,Karnataka,17.941399,75.239022,Type-2,Moderate,11.16,Low
+EV Station 888,Chennai,Tamil Nadu,8.837605,79.217669,Bharat DC-001,Moderate,24.46,Low
+EV Station 889,Vadodara,Gujarat,11.531481,69.522096,Bharat DC-001,Cold,7.55,High
+EV Station 890,Amritsar,Punjab,12.518149,84.370604,CHAdeMO,Cold,-1.99,High
+EV Station 891,Pune,Maharashtra,19.084888,89.583371,CHAdeMO,Moderate,24.22,Low
+EV Station 892,Durgapur,West Bengal,18.907371,88.389518,CCS,Hot,37.53,Moderate
+EV Station 893,Kolkata,West Bengal,28.925199,88.559764,Type-2,Cold,-5.69,High
+EV Station 894,Durgapur,West Bengal,9.454618,82.930426,CHAdeMO,Hot,26.97,Moderate
+EV Station 895,Dwarka,Delhi,28.621141,86.642706,CHAdeMO,Moderate,12.72,Low
+EV Station 896,Kochi,Kerala,35.574225,69.374362,Bharat DC-001,Hot,41.92,Moderate
+EV Station 897,Surat,Gujarat,17.940635,87.241524,Bharat DC-001,Cold,-3.06,High
+EV Station 898,Durgapur,West Bengal,27.237225,82.325204,Bharat DC-001,Hot,37.1,Moderate
+EV Station 899,Asansol,West Bengal,19.589392,75.696547,CHAdeMO,Moderate,13.35,Low
+EV Station 900,Pune,Maharashtra,22.769905,76.155985,CCS,Moderate,14.88,Low
+EV Station 901,Pune,Maharashtra,32.149703,80.067505,Type-2,Cold,4.84,High
+EV Station 902,Kolkata,West Bengal,35.4827,93.465878,Bharat DC-001,Hot,37.26,Moderate
+EV Station 903,Varanasi,Uttar Pradesh,23.407,94.24232,CHAdeMO,Hot,35.17,Moderate
+EV Station 904,New Delhi,Delhi,20.272967,84.772777,CHAdeMO,Hot,30.73,Moderate
+EV Station 905,Mangaluru,Karnataka,11.147355,85.67781,CHAdeMO,Hot,32.42,Moderate
+EV Station 906,Jaipur,Rajasthan,15.892512,87.006327,CHAdeMO,Cold,-0.16,High
+EV Station 907,Kolkata,West Bengal,15.498217,87.353209,CCS,Moderate,11.51,Low
+EV Station 908,Kochi,Kerala,9.894507,93.004276,Type-2,Hot,38.51,Moderate
+EV Station 909,Mysuru,Karnataka,8.283395,90.255664,Type-2,Moderate,19.32,Low
+EV Station 910,Noida,Uttar Pradesh,16.178707,74.281138,CHAdeMO,Cold,-9.96,High
+EV Station 911,Dwarka,Delhi,35.845872,92.082816,Bharat DC-001,Moderate,15.65,Low
+EV Station 912,Noida,Uttar Pradesh,21.554993,75.881889,CCS,Hot,28.18,Moderate
+EV Station 913,Amritsar,Punjab,21.325783,79.58211,CHAdeMO,Moderate,23.79,Low
+EV Station 914,Kozhikode,Kerala,36.193562,88.802173,CHAdeMO,Moderate,17.84,Low
+EV Station 915,Kozhikode,Kerala,18.875301,86.109194,Type-2,Hot,32.04,Moderate
+EV Station 916,Thiruvananthapuram,Kerala,36.769387,75.840475,CHAdeMO,Cold,4.85,High
+EV Station 917,Chennai,Tamil Nadu,22.890475,74.252034,Bharat DC-001,Hot,32.49,Moderate
+EV Station 918,Noida,Uttar Pradesh,35.75771,77.680824,CCS,Moderate,21.02,Low
+EV Station 919,Noida,Uttar Pradesh,16.308108,89.930335,Type-2,Hot,29.52,Moderate
+EV Station 920,Rohini,Delhi,9.22082,93.86568,CCS,Cold,-0.88,High
+EV Station 921,Vadodara,Gujarat,14.561362,96.952924,CCS,Moderate,20.65,Low
+EV Station 922,Kochi,Kerala,10.935428,75.655747,CCS,Cold,-2.79,High
+EV Station 923,Jaipur,Rajasthan,22.431981,77.023817,Bharat DC-001,Moderate,23.96,Low
+EV Station 924,Dwarka,Delhi,24.468667,91.776977,CHAdeMO,Cold,-8.87,High
+EV Station 925,Asansol,West Bengal,11.170776,80.61849,Type-2,Hot,43.39,Moderate
+EV Station 926,Madurai,Tamil Nadu,24.289144,96.127305,Bharat DC-001,Hot,26.45,Moderate
+EV Station 927,Asansol,West Bengal,33.880865,89.522114,CHAdeMO,Hot,35.7,Moderate
+EV Station 928,Thiruvananthapuram,Kerala,29.148965,88.774956,Type-2,Moderate,15.99,Low
+EV Station 929,Ludhiana,Punjab,24.529758,68.946589,Bharat DC-001,Moderate,23.75,Low
+EV Station 930,Durgapur,West Bengal,13.819894,83.473401,CCS,Cold,-2.86,High
+EV Station 931,Kozhikode,Kerala,21.287407,87.782677,Bharat DC-001,Moderate,15.14,Low
+EV Station 932,Kozhikode,Kerala,34.592801,77.916221,CCS,Moderate,22.83,Low
+EV Station 933,Durgapur,West Bengal,13.738508,90.411645,CCS,Hot,38.42,Moderate
+EV Station 934,Mangaluru,Karnataka,20.751127,75.713237,CCS,Hot,26.8,Moderate
+EV Station 935,Madurai,Tamil Nadu,19.730242,92.016895,CHAdeMO,Hot,40.18,Moderate
+EV Station 936,Madurai,Tamil Nadu,32.305923,92.261277,Type-2,Cold,6.41,High
+EV Station 937,Kochi,Kerala,30.428288,80.897854,Type-2,Hot,38.91,Moderate
+EV Station 938,Coimbatore,Tamil Nadu,10.608548,91.242198,CCS,Cold,-7.79,High
+EV Station 939,Mangaluru,Karnataka,11.041302,68.333724,CCS,Moderate,17.2,Low
+EV Station 940,Kozhikode,Kerala,32.494042,87.413472,Type-2,Hot,42.11,Moderate
+EV Station 941,Chennai,Tamil Nadu,27.597309,93.103486,CCS,Moderate,21.69,Low
+EV Station 942,Pune,Maharashtra,22.772983,73.481253,Bharat DC-001,Cold,-5.87,High
+EV Station 943,Asansol,West Bengal,12.248034,70.200128,Bharat DC-001,Moderate,11.89,Low
+EV Station 944,Vadodara,Gujarat,21.354113,77.421797,CHAdeMO,Cold,-7.89,High
+EV Station 945,Ludhiana,Punjab,9.503624,96.336435,Type-2,Hot,44.27,Moderate
+EV Station 946,Nagpur,Maharashtra,22.632471,94.250273,Type-2,Cold,8.88,High
+EV Station 947,Mysuru,Karnataka,33.145634,84.170238,Type-2,Moderate,20.55,Low
+EV Station 948,Thiruvananthapuram,Kerala,9.199392,69.709877,Bharat DC-001,Cold,0.19,High
+EV Station 949,Ludhiana,Punjab,22.148361,93.03816,Bharat DC-001,Moderate,13.56,Low
+EV Station 950,Bengaluru,Karnataka,31.153934,87.231603,CCS,Cold,5.19,High
+EV Station 951,Rohini,Delhi,13.58439,77.08296,Bharat DC-001,Hot,38.63,Moderate
+EV Station 952,Rohini,Delhi,28.105849,83.771764,Bharat DC-001,Cold,-0.38,High
+EV Station 953,Pune,Maharashtra,17.401272,94.285937,CCS,Cold,-2.61,High
+EV Station 954,Madurai,Tamil Nadu,18.77678,85.534297,CHAdeMO,Moderate,14.57,Low
+EV Station 955,Pune,Maharashtra,28.142807,80.989556,CCS,Hot,34.09,Moderate
+EV Station 956,Kozhikode,Kerala,8.480815,80.771005,Type-2,Hot,36.28,Moderate
+EV Station 957,Jaipur,Rajasthan,15.949891,86.571913,CCS,Cold,4.98,High
+EV Station 958,Udaipur,Rajasthan,15.387196,90.361781,Type-2,Moderate,18.58,Low
+EV Station 959,Madurai,Tamil Nadu,13.739975,92.764147,CHAdeMO,Hot,40.6,Moderate
+EV Station 960,Coimbatore,Tamil Nadu,19.795417,77.414124,Bharat DC-001,Cold,-5.19,High
+EV Station 961,Thiruvananthapuram,Kerala,19.189784,88.948949,CCS,Cold,-9.65,High
+EV Station 962,Mumbai,Maharashtra,18.198553,85.845328,CHAdeMO,Cold,-1.88,High
+EV Station 963,Nagpur,Maharashtra,26.52108,88.568454,Bharat DC-001,Hot,34.79,Moderate
+EV Station 964,Jodhpur,Rajasthan,13.916926,75.463925,Type-2,Hot,28.26,Moderate
+EV Station 965,Varanasi,Uttar Pradesh,12.413421,93.613635,Bharat DC-001,Cold,6.83,High
+EV Station 966,Mumbai,Maharashtra,12.922608,81.355214,CHAdeMO,Hot,31.06,Moderate
+EV Station 967,Surat,Gujarat,8.828597,74.41669,CHAdeMO,Moderate,15.7,Low
+EV Station 968,Mumbai,Maharashtra,10.59337,79.997879,Bharat DC-001,Cold,5.74,High
+EV Station 969,Chandigarh,Punjab,34.754324,86.830206,CCS,Moderate,15.61,Low
+EV Station 970,Nagpur,Maharashtra,11.461179,76.922307,CHAdeMO,Hot,34.51,Moderate
+EV Station 971,Surat,Gujarat,33.466936,84.792698,Type-2,Cold,-2.74,High
+EV Station 972,Rohini,Delhi,32.793988,81.021468,CCS,Cold,5.75,High
+EV Station 973,Chandigarh,Punjab,21.036983,90.580854,Bharat DC-001,Hot,39.94,Moderate
+EV Station 974,Mangaluru,Karnataka,8.250767,90.630559,Bharat DC-001,Cold,-4.87,High
+EV Station 975,Vadodara,Gujarat,18.058086,68.390986,CCS,Hot,30.86,Moderate
+EV Station 976,Durgapur,West Bengal,24.233943,92.579735,CHAdeMO,Moderate,14.0,Low
+EV Station 977,Mumbai,Maharashtra,25.59371,92.697416,Type-2,Hot,34.56,Moderate
+EV Station 978,Chennai,Tamil Nadu,35.645578,79.84813,CCS,Hot,36.12,Moderate
+EV Station 979,Dwarka,Delhi,24.655529,83.412609,CCS,Cold,7.35,High
+EV Station 980,Kolkata,West Bengal,29.906675,88.795398,CHAdeMO,Moderate,12.57,Low
+EV Station 981,Kozhikode,Kerala,16.435536,81.878817,Type-2,Hot,37.17,Moderate
+EV Station 982,Vadodara,Gujarat,22.69661,94.245814,CHAdeMO,Moderate,12.59,Low
+EV Station 983,Varanasi,Uttar Pradesh,35.663863,85.978291,Bharat DC-001,Cold,-4.87,High
+EV Station 984,Kochi,Kerala,10.056096,82.797349,CHAdeMO,Moderate,11.84,Low
+EV Station 985,Chennai,Tamil Nadu,16.278116,76.013803,CCS,Hot,33.25,Moderate
+EV Station 986,Lucknow,Uttar Pradesh,8.997658,87.277797,Type-2,Cold,7.31,High
+EV Station 987,Kochi,Kerala,30.673151,81.592022,Type-2,Moderate,19.82,Low
+EV Station 988,Pune,Maharashtra,25.694709,69.863158,CCS,Hot,42.32,Moderate
+EV Station 989,Ludhiana,Punjab,22.113599,75.255455,Type-2,Moderate,16.86,Low
+EV Station 990,Mumbai,Maharashtra,24.316575,72.593219,Type-2,Hot,34.57,Moderate
+EV Station 991,Jodhpur,Rajasthan,30.023733,76.882551,Bharat DC-001,Cold,2.83,High
+EV Station 992,Noida,Uttar Pradesh,16.510799,95.130096,CCS,Moderate,20.89,Low
+EV Station 993,Bengaluru,Karnataka,27.209307,69.729497,CCS,Moderate,23.51,Low
+EV Station 994,Noida,Uttar Pradesh,36.569869,91.518972,Bharat DC-001,Moderate,23.41,Low
+EV Station 995,Chandigarh,Punjab,15.906723,76.750006,Bharat DC-001,Hot,27.48,Moderate
+EV Station 996,Kolkata,West Bengal,33.157247,86.566018,CCS,Cold,3.44,High
+EV Station 997,Chennai,Tamil Nadu,12.117468,91.858268,CCS,Cold,4.3,High
+EV Station 998,Jaipur,Rajasthan,14.480333,88.255885,CHAdeMO,Moderate,19.77,Low
+EV Station 999,Kolkata,West Bengal,10.067443,81.530853,CHAdeMO,Moderate,22.47,Low
+EV Station 1000,Mysuru,Karnataka,28.869229,72.326737,Type-2,Cold,-2.14,High
